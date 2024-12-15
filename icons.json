@@ -5,7 +5,7 @@
   },
   {
     "emoji": "⌛",
-    "description": ""
+    "description": "hourglass, time"
   },
   {
     "emoji": "⏪",
@@ -17,7 +17,7 @@
   },
   {
     "emoji": "⏬",
-    "description": "down, arrow"
+    "description": "down, arrow, decrease"
   },
   {
     "emoji": "⏰",
@@ -25,7 +25,7 @@
   },
   {
     "emoji": "⏳",
-    "description": ""
+    "description": "hourglass, time"
   },
   {
     "emoji": "⚽",
@@ -37,11 +37,11 @@
   },
   {
     "emoji": "⛄",
-    "description": ""
+    "description": "snowman, snow"
   },
   {
     "emoji": "⛅",
-    "description": ""
+    "description": "morning, sun"
   },
   {
     "emoji": "⛎",
@@ -65,7 +65,7 @@
   },
   {
     "emoji": "⛵",
-    "description": ""
+    "description": "yacht, boat"
   },
   {
     "emoji": "⛺",
@@ -81,19 +81,19 @@
   },
   {
     "emoji": "✊",
-    "description": ""
+    "description": "fist"
   },
   {
     "emoji": "✋",
-    "description": ""
+    "description": "palm, hand"
   },
   {
     "emoji": "✨",
-    "description": ""
+    "description": "star, glow"
   },
   {
     "emoji": "❌",
-    "description": ""
+    "description": "no, cancel"
   },
   {
     "emoji": "❎",
@@ -117,7 +117,7 @@
   },
   {
     "emoji": "🃏",
-    "description": ""
+    "description": "joker"
   },
   {
     "emoji": "🆎",
@@ -129,11 +129,11 @@
   },
   {
     "emoji": "🆒",
-    "description": ""
+    "description": "cool"
   },
   {
     "emoji": "🆓",
-    "description": ""
+    "description": "free"
   },
   {
     "emoji": "🆔",
@@ -141,23 +141,23 @@
   },
   {
     "emoji": "🆕",
-    "description": ""
+    "description": "new"
   },
   {
     "emoji": "🆖",
-    "description": ""
+    "description": "ng"
   },
   {
     "emoji": "🆗",
-    "description": ""
+    "description": "ok"
   },
   {
     "emoji": "🆘",
-    "description": ""
+    "description": "sos"
   },
   {
     "emoji": "🆙",
-    "description": ""
+    "description": "up"
   },
   {
     "emoji": "🆚",
@@ -249,7 +249,7 @@
   },
   {
     "emoji": "🌈",
-    "description": ""
+    "description": "rainbow, lgbtq"
   },
   {
     "emoji": "🌉",
@@ -257,7 +257,7 @@
   },
   {
     "emoji": "🌊",
-    "description": ""
+    "description": "wave"
   },
   {
     "emoji": "🌋",
@@ -281,11 +281,11 @@
   },
   {
     "emoji": "🌐",
-    "description": ""
+    "description": "web, www"
   },
   {
     "emoji": "🌑",
-    "description": ""
+    "description": "moon"
   },
   {
     "emoji": "🌒",
@@ -337,7 +337,7 @@
   },
   {
     "emoji": "🌞",
-    "description": ""
+    "description": "sun"
   },
   {
     "emoji": "🌟",
@@ -345,11 +345,11 @@
   },
   {
     "emoji": "🌠",
-    "description": ""
+    "description": "star, shooting star"
   },
   {
     "emoji": "🌭",
-    "description": ""
+    "description": "hotdog"
   },
   {
     "emoji": "🌮",
@@ -381,35 +381,35 @@
   },
   {
     "emoji": "🌵",
-    "description": ""
+    "description": "cactus"
   },
   {
     "emoji": "🌷",
-    "description": ""
+    "description": "flower, tulip"
   },
   {
     "emoji": "🌸",
-    "description": ""
+    "description": "flower"
   },
   {
     "emoji": "🌹",
-    "description": ""
+    "description": "flower, rose"
   },
   {
     "emoji": "🌺",
-    "description": ""
+    "description": "flower"
   },
   {
     "emoji": "🌻",
-    "description": ""
+    "description": "flower, sunflower"
   },
   {
     "emoji": "🌼",
-    "description": ""
+    "description": "flower"
   },
   {
     "emoji": "🌽",
-    "description": ""
+    "description": "corn"
   },
   {
     "emoji": "🌾",
@@ -425,7 +425,7 @@
   },
   {
     "emoji": "🍁",
-    "description": ""
+    "description": "maple"
   },
   {
     "emoji": "🍂",
@@ -433,19 +433,19 @@
   },
   {
     "emoji": "🍃",
-    "description": ""
+    "description": "leaf"
   },
   {
     "emoji": "🍄",
-    "description": ""
+    "description": "mushroom"
   },
   {
     "emoji": "🍅",
-    "description": ""
+    "description": "tomato"
   },
   {
     "emoji": "🍆",
-    "description": ""
+    "description": "eggplant, egg plant"
   },
   {
     "emoji": "🍇",
@@ -457,7 +457,7 @@
   },
   {
     "emoji": "🍉",
-    "description": ""
+    "description": "watermelon, melon"
   },
   {
     "emoji": "🍊",
@@ -469,7 +469,7 @@
   },
   {
     "emoji": "🍌",
-    "description": ""
+    "description": "banana"
   },
   {
     "emoji": "🍍",
@@ -477,7 +477,7 @@
   },
   {
     "emoji": "🍎",
-    "description": ""
+    "description": "apple"
   },
   {
     "emoji": "🍏",
@@ -489,7 +489,7 @@
   },
   {
     "emoji": "🍑",
-    "description": ""
+    "description": "peach"
   },
   {
     "emoji": "🍒",
@@ -501,11 +501,11 @@
   },
   {
     "emoji": "🍔",
-    "description": ""
+    "description": "burger"
   },
   {
     "emoji": "🍕",
-    "description": ""
+    "description": "pizza"
   },
   {
     "emoji": "🍖",
@@ -541,7 +541,7 @@
   },
   {
     "emoji": "🍞",
-    "description": ""
+    "description": "bread, loaf"
   },
   {
     "emoji": "🍟",
@@ -693,7 +693,7 @@
   },
   {
     "emoji": "🎅",
-    "description": ""
+    "description": "santa, christmas, xmas"
   },
   {
     "emoji": "🎆",
@@ -901,15 +901,15 @@
   },
   {
     "emoji": "🏅",
-    "description": ""
+    "description": "medal"
   },
   {
     "emoji": "🏆",
-    "description": ""
+    "description": "trophy"
   },
   {
     "emoji": "🏇",
-    "description": ""
+    "description": "ride, horse, horse ride, race, horse race, sports"
   },
   {
     "emoji": "🏈",
@@ -921,11 +921,11 @@
   },
   {
     "emoji": "🏊",
-    "description": ""
+    "description": "swim, swimmer, sports"
   },
   {
     "emoji": "🏏",
-    "description": ""
+    "description": "sports, cricket"
   },
   {
     "emoji": "🏐",
@@ -933,7 +933,7 @@
   },
   {
     "emoji": "🏑",
-    "description": ""
+    "description": "sports, hockey"
   },
   {
     "emoji": "🏒",
