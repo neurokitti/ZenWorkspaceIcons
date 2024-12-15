@@ -9,19 +9,19 @@
   },
   {
     "emoji": "⏪",
-    "description": ""
+    "description": "left, arrow, rewind, back"
   },
   {
     "emoji": "⏫",
-    "description": ""
+    "description": "up, arrow, increase"
   },
   {
     "emoji": "⏬",
-    "description": ""
+    "description": "down, arrow"
   },
   {
     "emoji": "⏰",
-    "description": ""
+    "description": "clock, alarm, time"
   },
   {
     "emoji": "⏳",
@@ -29,11 +29,11 @@
   },
   {
     "emoji": "⚽",
-    "description": ""
+    "description": "soccer, football, ball, sports"
   },
   {
     "emoji": "⚾",
-    "description": ""
+    "description": "ball, baseball, sports"
   },
   {
     "emoji": "⛄",
@@ -61,7 +61,7 @@
   },
   {
     "emoji": "⛳",
-    "description": ""
+    "description": "golf, sports, flag"
   },
   {
     "emoji": "⛵",
@@ -69,7 +69,7 @@
   },
   {
     "emoji": "⛺",
-    "description": ""
+    "description": "camp, tent, camping, shelter"
   },
   {
     "emoji": "⛽",
@@ -77,7 +77,7 @@
   },
   {
     "emoji": "✅",
-    "description": ""
+    "description": "tick, yes, approve, check, accept"
   },
   {
     "emoji": "✊",
@@ -101,15 +101,15 @@
   },
   {
     "emoji": "❓",
-    "description": ""
+    "description": "question"
   },
   {
     "emoji": "⭐",
-    "description": ""
+    "description": "star, five"
   },
   {
     "emoji": "⭕",
-    "description": ""
+    "description": "circle, o, hoop, round"
   },
   {
     "emoji": "🀄",
