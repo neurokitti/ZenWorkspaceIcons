@@ -13,4 +13,6 @@ for example this emoji: "📖"
 ```
 
 ive made this format for a [chatgpt conversation](https://chatgpt.com/share/675e4f8f-8800-800a-b4ad-c834855347a0)
-i would like for people to think about there own use cases as i could use chatgpt myself but if you just want to help label this would still be sufficient.
+i would like for people to think about there own use cases as i could use chatgpt myself but if you just want to help label this would still be sufficient. It is also important to remeber not to just blindly use the keywords chatGPT responds with. for example the keywords in this conversation such as "tracking,punctuality,reminder,management" dont sound very good and i would not include them.
+
+to make a contribution make a fork. edit the file in that fork then submit a pull request.
