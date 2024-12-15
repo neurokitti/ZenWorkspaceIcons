@@ -249,7 +249,7 @@
   },
   {
     "emoji": "🌈",
-    "description": ""
+    "description": "rainbow, pride"
   },
   {
     "emoji": "🌉",
@@ -341,7 +341,7 @@
   },
   {
     "emoji": "🌟",
-    "description": ""
+    "description": "star"
   },
   {
     "emoji": "🌠",
@@ -385,15 +385,15 @@
   },
   {
     "emoji": "🌷",
-    "description": ""
+    "description": "flower, tulip"
   },
   {
     "emoji": "🌸",
-    "description": ""
+    "description": "flower, bloom"
   },
   {
     "emoji": "🌹",
-    "description": ""
+    "description": "flower, rose"
   },
   {
     "emoji": "🌺",
@@ -401,7 +401,7 @@
   },
   {
     "emoji": "🌻",
-    "description": ""
+    "description": "sunflower"
   },
   {
     "emoji": "🌼",
@@ -685,15 +685,15 @@
   },
   {
     "emoji": "🎃",
-    "description": ""
+    "description": "pumpkin, spooky, halloween"
   },
   {
     "emoji": "🎄",
-    "description": ""
+    "description": "tree, christmas"
   },
   {
     "emoji": "🎅",
-    "description": ""
+    "description": "santa, christmas"
   },
   {
     "emoji": "🎆",
@@ -1273,7 +1273,7 @@
   },
   {
     "emoji": "🐸",
-    "description": ""
+    "description": "frog"
   },
   {
     "emoji": "🐹",
@@ -1913,7 +1913,7 @@
   },
   {
     "emoji": "📚",
-    "description": ""
+    "description": "books, study, school"
   },
   {
     "emoji": "📛",
@@ -1925,11 +1925,11 @@
   },
   {
     "emoji": "📝",
-    "description": ""
+    "description": "note, pencil, study, school"
   },
   {
     "emoji": "📞",
-    "description": ""
+    "description": "phone, call"
   },
   {
     "emoji": "📟",
@@ -1965,31 +1965,31 @@
   },
   {
     "emoji": "📧",
-    "description": ""
+    "description": "mail"
   },
   {
     "emoji": "📨",
-    "description": ""
+    "description": "mail"
   },
   {
     "emoji": "📩",
-    "description": ""
+    "description": "mail"
   },
   {
     "emoji": "📪",
-    "description": ""
+    "description": "mail"
   },
   {
     "emoji": "📫",
-    "description": ""
+    "description": "mail"
   },
   {
     "emoji": "📬",
-    "description": ""
+    "description": "mail"
   },
   {
     "emoji": "📭",
-    "description": ""
+    "description": "mail"
   },
   {
     "emoji": "📮",
@@ -2029,11 +2029,11 @@
   },
   {
     "emoji": "📷",
-    "description": ""
+    "description": "photography, photo"
   },
   {
     "emoji": "📸",
-    "description": ""
+    "description": "photography, photo"
   },
   {
     "emoji": "📹",
@@ -2109,11 +2109,11 @@
   },
   {
     "emoji": "🔍",
-    "description": ""
+    "description": "search"
   },
   {
     "emoji": "🔎",
-    "description": ""
+    "description": "search"
   },
   {
     "emoji": "🔏",
@@ -2677,7 +2677,7 @@
   },
   {
     "emoji": "😺",
-    "description": ""
+    "description": "kitty"
   },
   {
     "emoji": "😻",
@@ -4149,10 +4149,10 @@
   },
   {
     "emoji": "🏳️‍🌈",
-    "description": ""
+    "description": "gay, pride"
   },
   {
     "emoji": "🏳️‍⚧️",
-    "description": ""
+    "description": "trans, pride"
   }
 ]
