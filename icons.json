@@ -73,7 +73,7 @@
   },
   {
     "emoji": "⛽",
-    "description": "gas"
+    "description": "gas, fual, fual pump"
   },
   {
     "emoji": "✅",
@@ -93,15 +93,15 @@
   },
   {
     "emoji": "❌",
-    "description": "cross, no"
+    "description": "cross, no, x"
   },
   {
     "emoji": "❎",
-    "description": "cross, no"
+    "description": "cross, no, x"
   },
   {
     "emoji": "❓",
-    "description": "question"
+    "description": "question, ?"
   },
   {
     "emoji": "⭐",
@@ -121,11 +121,11 @@
   },
   {
     "emoji": "🆎",
-    "description": ""
+    "description": "AB, ab"
   },
   {
     "emoji": "🆑",
-    "description": ""
+    "description": "CL, cl"
   },
   {
     "emoji": "🆒",
@@ -249,7 +249,7 @@
   },
   {
     "emoji": "🌈",
-    "description": "rainbow, pride"
+    "description": "rainbow, pride, lucky"
   },
   {
     "emoji": "🌉",
@@ -261,7 +261,7 @@
   },
   {
     "emoji": "🌋",
-    "description": "volcan"
+    "description": "volcano, eruption"
   },
   {
     "emoji": "🌌",
@@ -721,7 +721,7 @@
   },
   {
     "emoji": "🎌",
-    "description": ""
+    "description": "flag, Japanese"
   },
   {
     "emoji": "🎍",
@@ -1029,35 +1029,35 @@
   },
   {
     "emoji": "🏻",
-    "description": ""
+    "description": "tan, peach, color"
   },
   {
     "emoji": "🏼",
-    "description": ""
+    "description": "tan, peach, color"
   },
   {
     "emoji": "🏽",
-    "description": ""
+    "description": "brown, color"
   },
   {
     "emoji": "🏾",
-    "description": ""
+    "description": "brown, color"
   },
   {
     "emoji": "🏿",
-    "description": ""
+    "description": "brown, color"
   },
   {
     "emoji": "🐀",
-    "description": ""
+    "description": "mouse"
   },
   {
     "emoji": "🐁",
-    "description": ""
+    "description": "mouse"
   },
   {
     "emoji": "🐂",
-    "description": ""
+    "description": "bull"
   },
   {
     "emoji": "🐃",
@@ -1065,11 +1065,11 @@
   },
   {
     "emoji": "🐄",
-    "description": ""
+    "description": "cow"
   },
   {
     "emoji": "🐅",
-    "description": ""
+    "description": "Cheetah"
   },
   {
     "emoji": "🐆",
@@ -1077,163 +1077,163 @@
   },
   {
     "emoji": "🐇",
-    "description": ""
+    "description": "rabbit"
   },
   {
     "emoji": "🐈",
-    "description": ""
+    "description": "cat"
   },
   {
     "emoji": "🐉",
-    "description": ""
+    "description": "dragon"
   },
   {
     "emoji": "🐊",
-    "description": ""
+    "description": "alligator"
   },
   {
     "emoji": "🐋",
-    "description": ""
+    "description": "whale"
   },
   {
     "emoji": "🐌",
-    "description": ""
+    "description": "snail"
   },
   {
     "emoji": "🐍",
-    "description": ""
+    "description": "snake"
   },
   {
     "emoji": "🐎",
-    "description": ""
+    "description": "horse"
   },
   {
     "emoji": "🐏",
-    "description": ""
+    "description": "sheep"
   },
   {
     "emoji": "🐐",
-    "description": ""
+    "description": "goat"
   },
   {
     "emoji": "🐑",
-    "description": ""
+    "description": "sheep"
   },
   {
     "emoji": "🐒",
-    "description": ""
+    "description": "monkey"
   },
   {
     "emoji": "🐓",
-    "description": ""
+    "description": "chicken, rooster"
   },
   {
     "emoji": "🐔",
-    "description": ""
+    "description": "chicken"
   },
   {
     "emoji": "🐕",
-    "description": ""
+    "description": "dog, puppy"
   },
   {
     "emoji": "🐖",
-    "description": ""
+    "description": "pig"
   },
   {
     "emoji": "🐗",
-    "description": ""
+    "description": "hog, pig"
   },
   {
     "emoji": "🐘",
-    "description": ""
+    "description": "elephant"
   },
   {
     "emoji": "🐙",
-    "description": ""
+    "description": "octopus"
   },
   {
     "emoji": "🐚",
-    "description": ""
+    "description": "shell"
   },
   {
     "emoji": "🐛",
-    "description": ""
+    "description": "worm"
   },
   {
     "emoji": "🐜",
-    "description": ""
+    "description": "ant"
   },
   {
     "emoji": "🐝",
-    "description": ""
+    "description": "bee"
   },
   {
     "emoji": "🐞",
-    "description": ""
+    "description": "ladybug"
   },
   {
     "emoji": "🐟",
-    "description": ""
+    "description": "fish"
   },
   {
     "emoji": "🐠",
-    "description": ""
+    "description": "fish"
   },
   {
     "emoji": "🐡",
-    "description": ""
+    "description": "pufferfish, fish"
   },
   {
     "emoji": "🐢",
-    "description": ""
+    "description": "turtle"
   },
   {
     "emoji": "🐣",
-    "description": ""
+    "description": "chick, chicken"
   },
   {
     "emoji": "🐤",
-    "description": ""
+    "description": "chick, chicken"
   },
   {
     "emoji": "🐥",
-    "description": ""
+    "description": "chick, chicken"
   },
   {
     "emoji": "🐦",
-    "description": ""
+    "description": "bird"
   },
   {
     "emoji": "🐧",
-    "description": ""
+    "description": "penguin"
   },
   {
     "emoji": "🐨",
-    "description": ""
+    "description": "koala"
   },
   {
     "emoji": "🐩",
-    "description": ""
+    "description": "dog, poodle"
   },
   {
     "emoji": "🐪",
-    "description": ""
+    "description": "camel"
   },
   {
     "emoji": "🐫",
-    "description": ""
+    "description": "camel"
   },
   {
     "emoji": "🐬",
-    "description": ""
+    "description": "dolphin"
   },
   {
     "emoji": "🐭",
-    "description": ""
+    "description": "moise"
   },
   {
     "emoji": "🐮",
-    "description": ""
+    "description": "cow"
   },
   {
     "emoji": "🐯",
@@ -1241,35 +1241,35 @@
   },
   {
     "emoji": "🐰",
-    "description": ""
+    "description": "rabbit, bunny"
   },
   {
     "emoji": "🐱",
-    "description": ""
+    "description": "cat"
   },
   {
     "emoji": "🐲",
-    "description": ""
+    "description": "dragon"
   },
   {
     "emoji": "🐳",
-    "description": ""
+    "description": "whale"
   },
   {
     "emoji": "🐴",
-    "description": ""
+    "description": "horse"
   },
   {
     "emoji": "🐵",
-    "description": ""
+    "description": "monkey"
   },
   {
     "emoji": "🐶",
-    "description": ""
+    "description": "dog, puppy"
   },
   {
     "emoji": "🐷",
-    "description": ""
+    "description": "pig"
   },
   {
     "emoji": "🐸",
@@ -1277,19 +1277,19 @@
   },
   {
     "emoji": "🐹",
-    "description": ""
+    "description": "hamster"
   },
   {
     "emoji": "🐺",
-    "description": ""
+    "description": rat""
   },
   {
     "emoji": "🐻",
-    "description": ""
+    "description": "bear, teddy"
   },
   {
     "emoji": "🐼",
-    "description": ""
+    "description": "panda"
   },
   {
     "emoji": "🐽",
@@ -1297,55 +1297,55 @@
   },
   {
     "emoji": "🐾",
-    "description": ""
+    "description": "prints, paws"
   },
   {
     "emoji": "👀",
-    "description": ""
+    "description": "what?, peak, peaking, looking"
   },
   {
     "emoji": "👂",
-    "description": ""
+    "description": "ear, hear"
   },
   {
     "emoji": "👃",
-    "description": ""
+    "description": "nose, sniff"
   },
   {
     "emoji": "👄",
-    "description": ""
+    "description": "lips, talk, speech"
   },
   {
     "emoji": "👅",
-    "description": ""
+    "description": "tongue, taste, lick"
   },
   {
     "emoji": "👆",
-    "description": ""
+    "description": "point, up"
   },
   {
     "emoji": "👇",
-    "description": ""
+    "description": "point, down"
   },
   {
     "emoji": "👈",
-    "description": ""
+    "description": "point, left"
   },
   {
     "emoji": "👉",
-    "description": ""
+    "description": "point, right"
   },
   {
     "emoji": "👊",
-    "description": ""
+    "description": "fist, punch"
   },
   {
     "emoji": "👋",
-    "description": ""
+    "description": "wave, hello"
   },
   {
     "emoji": "👌",
-    "description": ""
+    "description": "ok, OK"
   },
   {
     "emoji": "👍",
