@@ -21,7 +21,7 @@
   },
   {
     "emoji": "⏬",
-    "description": "down, arrow",
+    "description": "down, arrow, decrease",
     "name": "arrow_double_down"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "emoji": "⚽",
-    "description": "soccer, football, ball, sports",
+    "description": "soccer, football, ball, sports, soccer ball,",
     "name": "soccer"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "emoji": "⛄",
-    "description": "snowman, snow, christmas",
+    "description": "snowman, snow, christmas, holidays",
     "name": "snowman"
   },
   {
     "emoji": "⛅",
-    "description": "weather, cloudy, sun",
+    "description": "weather, cloudy, sun, sunny",
     "name": "partly_sunny"
   },
   {
