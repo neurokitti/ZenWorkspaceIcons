@@ -56,7 +56,7 @@
   },
   {
     "emoji": "⛎",
-    "description": "",
+    "description": "zodiac, horoscope",
     "name": "ophiuchus"
   },
   {
@@ -66,13 +66,13 @@
   },
   {
     "emoji": "⛪",
-    "description": "church, building",
+    "description": "church, building, religion, worship, faith, holy",
     "name": "church"
   },
   {
     "emoji": "⛲",
-    "description": "fountain",
-    "name": "⛲"
+    "description": "fountain, water, garden",
+    "name": "fountain"
   },
   {
     "emoji": "⛳",
@@ -81,197 +81,197 @@
   },
   {
     "emoji": "⛵",
-    "description": "ship, vessel, boat, sea",
+    "description": "ship, water, vessel, boat, sea, sailing, ocean, travel, vacation",
     "name": "boat"
   },
   {
     "emoji": "⛺",
-    "description": "camp, tent, camping, shelter",
+    "description": "camp, camping, outdoor, tent, camping, shelter, nature, vacation",
     "name": "tent"
   },
   {
     "emoji": "⛽",
-    "description": "gas",
+    "description": "gas, gas station, fuel, petrol, oil",
     "name": "fuelpump"
   },
   {
     "emoji": "✅",
-    "description": "tick, yes, approve, check, accept",
+    "description": "check mark, task, success, tick, yes, approve, check, accept",
     "name": "white_check_mark"
   },
   {
     "emoji": "✊",
-    "description": "fist",
+    "description": "fist, solidarity, strength, empowerment, justice",
     "name": "fist_raised"
   },
   {
     "emoji": "✋",
-    "description": "hand",
+    "description": "hand, stop, halt",
     "name": "hand"
   },
   {
     "emoji": "✨",
-    "description": "sparkles, stars, shine",
+    "description": "sparkles, stars, shine, AI, magic, beauty, creativity",
     "name": "sparkles"
   },
   {
     "emoji": "❌",
-    "description": "cross, no",
+    "description": "cross, no, wrong, red",
     "name": "x"
   },
   {
     "emoji": "❎",
-    "description": "cross, no",
+    "description": "cross, no, green,",
     "name": "negative_squared_cross_mark"
   },
   {
     "emoji": "❓",
-    "description": "question",
+    "description": "question, red, curiosity, punctuation",
     "name": "question"
   },
   {
     "emoji": "⭐",
-    "description": "star, five",
+    "description": "star, five, achievement, favorite, yellow, gold, space, universe",
     "name": "star"
   },
   {
     "emoji": "⭕",
-    "description": "circle, o, hoop, round",
+    "description": "circle, o, hoop, round, red",
     "name": "o"
   },
   {
     "emoji": "🀄",
-    "description": "",
+    "description": "game, china",
     "name": "mahjong"
   },
   {
     "emoji": "🃏",
-    "description": "card, joker",
+    "description": "card, joker, game, deck, gamble",
     "name": "black_joker"
   },
   {
     "emoji": "🆎",
-    "description": "",
+    "description": "red,",
     "name": "ab"
   },
   {
     "emoji": "🆑",
-    "description": "",
+    "description": "red",
     "name": "cl"
   },
   {
     "emoji": "🆒",
-    "description": "cool",
+    "description": "cool, blue",
     "name": "cool"
   },
   {
     "emoji": "🆓",
-    "description": "free",
+    "description": "free, blue",
     "name": "free"
   },
   {
     "emoji": "🆔",
-    "description": "id",
+    "description": "id, purple, identification, verification, security, authentication",
     "name": "id"
   },
   {
     "emoji": "🆕",
-    "description": "new",
+    "description": "new, blue",
     "name": "new"
   },
   {
     "emoji": "🆖",
-    "description": "ng",
+    "description": "ng, blue, ana ng",
     "name": "ng"
   },
   {
     "emoji": "🆗",
-    "description": "ok",
+    "description": "ok, okay, blue",
     "name": "ok"
   },
   {
     "emoji": "🆘",
-    "description": "sos, help",
+    "description": "sos, help, red, emergency, danger",
     "name": "sos"
   },
   {
     "emoji": "🆙",
-    "description": "up",
+    "description": "up, blue",
     "name": "up"
   },
   {
     "emoji": "🆚",
-    "description": "vs, versus",
+    "description": "vs, versus, competition, battle, contest, challenge, duel, orange",
     "name": "vs"
   },
   {
     "emoji": "🈁",
-    "description": "japanese, here",
+    "description": "japanese, here, blue",
     "name": "koko"
   },
   {
     "emoji": "🈚",
-    "description": "japanese",
+    "description": "japanese, orange",
     "name": "u7121"
   },
   {
     "emoji": "🈯",
-    "description": "japanese",
+    "description": "japanese, green",
     "name": "u6307"
   },
   {
     "emoji": "🈲",
-    "description": "japanese",
+    "description": "japanese, red",
     "name": "u7981"
   },
   {
     "emoji": "🈳",
-    "description": "japanese",
+    "description": "japanese, blue",
     "name": "u7a7a"
   },
   {
     "emoji": "🈴",
-    "description": "japanese",
+    "description": "japanese, red",
     "name": "u5408"
   },
   {
     "emoji": "🈵",
-    "description": "japanese",
+    "description": "japanese, red",
     "name": "u6e80"
   },
   {
     "emoji": "🈶",
-    "description": "japanese",
+    "description": "japanese, orange",
     "name": "u6709"
   },
   {
     "emoji": "🈸",
-    "description": "japanese",
+    "description": "japanese, orange",
     "name": "u7533"
   },
   {
     "emoji": "🈹",
-    "description": "japanese",
+    "description": "japanese, red",
     "name": "u5272"
   },
   {
     "emoji": "🈺",
-    "description": "japanese",
+    "description": "japanese, orange",
     "name": "u55b6"
   },
   {
     "emoji": "🉐",
-    "description": "japanese",
+    "description": "japanese, red",
     "name": "ideograph_advantage"
   },
   {
     "emoji": "🉑",
-    "description": "japanese",
+    "description": "japanese, orange",
     "name": "accept"
   },
   {
     "emoji": "🌀",
-    "description": "cyclone, spiral",
+    "description": "cyclone, spiral, Zen, purple, swirl, storm",
     "name": "cyclone"
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "emoji": "🌂",
-    "description": "umbrella",
+    "description": "umbrella, purple, rain, weather, ",
     "name": "closed_umbrella"
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "emoji": "🌈",
-    "description": "rainbow, pride",
+    "description": "rainbow, pride, gay",
     "name": "rainbow"
   },
   {
@@ -321,17 +321,17 @@
   },
   {
     "emoji": "🌊",
-    "description": "wave, tsunami, water, sea, ocean",
+    "description": "wave, tsunami, water, sea, ocean, blue, art",
     "name": "ocean"
   },
   {
     "emoji": "🌋",
-    "description": "volcan",
+    "description": "volcano, eruption, lava, fire, geological",
     "name": "volcano"
   },
   {
     "emoji": "🌌",
-    "description": "stars, nebula, cosmos",
+    "description": "stars, nebula, cosmos, galaxy",
     "name": "milky_way"
   },
   {
