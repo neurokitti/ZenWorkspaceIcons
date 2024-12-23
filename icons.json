@@ -331,107 +331,107 @@
   },
   {
     "emoji": "🌌",
-    "description": "stars, nebula, cosmos, galaxy",
+    "description": "science, stars, nebula, cosmos, galaxy, blue",
     "name": "milky_way"
   },
   {
     "emoji": "🌍",
-    "description": "world, map, africa, globe",
+    "description": "school, blue, planet, geography, world, map, africa, globe, earth",
     "name": "earth_africa"
   },
   {
     "emoji": "🌎",
-    "description": "world, map, america, globe",
+    "description": "school, blue, planet, geography, world, map, america, globe, earth",
     "name": "earth_americas"
   },
   {
     "emoji": "🌏",
-    "description": "world, map, asia, australia, globe",
+    "description": "school, blue, planet, geography, world, map, asia, australia, earth, globe",
     "name": "earth_asia"
   },
   {
     "emoji": "🌐",
-    "description": "world, www, internet, web",
+    "description": "world, blue, network, www, internet, web, tech, technology",
     "name": "globe_with_meridians"
   },
   {
     "emoji": "🌑",
-    "description": "moon",
+    "description": "moon, lunar, purple, night, new moon, space, astronomy",
     "name": "new_moon"
   },
   {
     "emoji": "🌒",
-    "description": "moon",
+    "description": "moon, night, space, astronomy",
     "name": "waxing_crescent_moon"
   },
   {
     "emoji": "🌓",
-    "description": "moon",
+    "description": "moon, night, space, astronomy",
     "name": "first_quarter_moon"
   },
   {
     "emoji": "🌔",
-    "description": "moon",
+    "description": "moon, night, space, astronomy",
     "name": "moon"
   },
   {
     "emoji": "🌕",
-    "description": "moon",
+    "description": "moon, yellow, night, space, astronomy",
     "name": "full_moon"
   },
   {
     "emoji": "🌖",
-    "description": "moon",
+    "description": "moon, night, space, astronomy",
     "name": "waning_gibbous_moon"
   },
   {
     "emoji": "🌗",
-    "description": "moon",
+    "description": "moon, night, space, astronomy",
     "name": "last_quarter_moon"
   },
   {
     "emoji": "🌘",
-    "description": "moon",
+    "description": "moon, night, space, astronomy",
     "name": "waning_crescent_moon"
   },
   {
     "emoji": "🌙",
-    "description": "moon",
+    "description": "moon, night, space, astronomy",
     "name": "crescent_moon"
   },
   {
     "emoji": "🌚",
-    "description": "moon, face",
+    "description": "moon, purple, night, space, astronomy, face",
     "name": "new_moon_with_face"
   },
   {
     "emoji": "🌛",
-    "description": "moon, face",
+    "description": "smile, moon, yellow, night, space, astronomy, face",
     "name": "first_quarter_moon_with_face"
   },
   {
     "emoji": "🌜",
-    "description": "moon, face",
+    "description": "smile, moon, yellow, night, space, astronomy, face",
     "name": "last_quarter_moon_with_face"
   },
   {
     "emoji": "🌝",
-    "description": "moon, face",
+    "description": "smile, moon, yellow, night, space, astronomy, face",
     "name": "full_moon_with_face"
   },
   {
     "emoji": "🌞",
-    "description": "sun, face",
+    "description": "smile, moon, yellow, night, space, astronomy, face",
     "name": "sun_with_face"
   },
   {
     "emoji": "🌟",
-    "description": "star",
+    "description": "star, sparkle, yellow, night",
     "name": "star2"
   },
   {
     "emoji": "🌠",
-    "description": "star, falling, cosmos",
+    "description": "star, falling, cosmos, night",
     "name": "stars"
   },
   {
@@ -456,57 +456,57 @@
   },
   {
     "emoji": "🌱",
-    "description": "plant",
+    "description": "plant, growth, green, ",
     "name": "seedling"
   },
   {
     "emoji": "🌲",
-    "description": "tree, spruce",
+    "description": "tree, spruce, christmas, holidays, green",
     "name": "evergreen_tree"
   },
   {
     "emoji": "🌳",
-    "description": "tree, oak",
+    "description": "tree, oak, environment, plant, forest, green, nature",
     "name": "deciduous_tree"
   },
   {
     "emoji": "🌴",
-    "description": "tree, palm, beach, vacation",
+    "description": "tree, palm, beach, vacation, island",
     "name": "palm_tree"
   },
   {
     "emoji": "🌵",
-    "description": "cactus, desert",
+    "description": "cactus, desert, green, nature, plant",
     "name": "cactus"
   },
   {
     "emoji": "🌷",
-    "description": "flower, tulip",
+    "description": "flower, tulip, pink, nature, plant",
     "name": "tulip"
   },
   {
     "emoji": "🌸",
-    "description": "flower, bloom, sakura",
+    "description": "flower, bloom, sakura, pink, nature, plant",
     "name": "cherry_blossom"
   },
   {
     "emoji": "🌹",
-    "description": "flower, rose",
+    "description": "flower, rose, red, nature, plant",
     "name": "rose"
   },
   {
     "emoji": "🌺",
-    "description": "flower",
+    "description": "flower, nature, plant, pink",
     "name": "hibiscus"
   },
   {
     "emoji": "🌻",
-    "description": "sunflower",
+    "description": "sunflower, nature, plant, flower, yellow",
     "name": "sunflower"
   },
   {
     "emoji": "🌼",
-    "description": "flower",
+    "description": "flower, nature, plant, white",
     "name": "blossom"
   },
   {
@@ -526,52 +526,52 @@
   },
   {
     "emoji": "🍀",
-    "description": "plant, clover",
+    "description": "plant, clover, lucky, fortune, green",
     "name": "four_leaf_clover"
   },
   {
     "emoji": "🍁",
-    "description": "leaf, canada, autumn, fall",
+    "description": "leaf, canada, autumn, fall, nature, plant, red",
     "name": "maple_leaf"
   },
   {
     "emoji": "🍂",
-    "description": "leaf, autumn, fall",
+    "description": "leaf, autumn, fall, nature, plant, dead leaves, brown",
     "name": "fallen_leaf"
   },
   {
     "emoji": "🍃",
-    "description": "leaf",
+    "description": "leaf, nature, plant, green",
     "name": "leaves"
   },
   {
     "emoji": "🍄",
-    "description": "mushroom",
+    "description": "mushroom, nature, plant, fungi, toadstool",
     "name": "mushroom"
   },
   {
     "emoji": "🍅",
-    "description": "tomato, food, vegetable, berry",
+    "description": "tomato, food, vegetable, red",
     "name": "tomato"
   },
   {
     "emoji": "🍆",
-    "description": "eggplant, food, vegetable",
+    "description": "eggplant, food, vegetable, purple",
     "name": "eggplant"
   },
   {
     "emoji": "🍇",
-    "description": "grape, food, fruit",
+    "description": "grape, food, fruit, purple",
     "name": "grapes"
   },
   {
     "emoji": "🍈",
-    "description": "watermelon, fruit, food",
+    "description": "melon, fruit, food",
     "name": "melon"
   },
   {
     "emoji": "🍉",
-    "description": "watermelon, fruit, food",
+    "description": "watermelon, fruit, food, red",
     "name": "watermelon"
   },
   {
@@ -581,12 +581,12 @@
   },
   {
     "emoji": "🍋",
-    "description": "lemon, food, fruit",
+    "description": "lemon, food, fruit, yellow",
     "name": "lemon"
   },
   {
     "emoji": "🍌",
-    "description": "banana, food, fruit, berry",
+    "description": "banana, food, fruit, berry, yellow",
     "name": "banana"
   },
   {
@@ -596,17 +596,17 @@
   },
   {
     "emoji": "🍎",
-    "description": "apple, food, fruit",
+    "description": "apple, food, fruit, red, school,",
     "name": "apple"
   },
   {
     "emoji": "🍏",
-    "description": "apple, food, fruit",
+    "description": "apple, food, fruit, green",
     "name": "green_apple"
   },
   {
     "emoji": "🍐",
-    "description": "pear, food, fruit",
+    "description": "pear, food, fruit, green",
     "name": "pear"
   },
   {
@@ -616,12 +616,12 @@
   },
   {
     "emoji": "🍒",
-    "description": "cherry, food, fruit",
+    "description": "cherry, food, fruit, red",
     "name": "cherries"
   },
   {
     "emoji": "🍓",
-    "description": "strawberry, berry, fruit, food",
+    "description": "strawberry, berry, fruit, food, red",
     "name": "strawberry"
   },
   {
@@ -856,17 +856,17 @@
   },
   {
     "emoji": "🎃",
-    "description": "pumpkin, spooky, halloween",
+    "description": "pumpkin, scary, spooky, fall, halloween, orange",
     "name": "jack_o_lantern"
   },
   {
     "emoji": "🎄",
-    "description": "tree, christmas",
+    "description": "tree, christmas, holidays",
     "name": "christmas_tree"
   },
   {
     "emoji": "🎅",
-    "description": "santa, christmas",
+    "description": "santa, christmas, holidays",
     "name": "santa"
   },
   {
@@ -881,17 +881,17 @@
   },
   {
     "emoji": "🎈",
-    "description": "baloon",
+    "description": "baloon, red",
     "name": "balloon"
   },
   {
     "emoji": "🎉",
-    "description": "party, confetti",
+    "description": "party, confetti, celebration",
     "name": "tada"
   },
   {
     "emoji": "🎊",
-    "description": "party, confetti",
+    "description": "party, confetti, celebration",
     "name": "confetti_ball"
   },
   {
@@ -961,17 +961,17 @@
   },
   {
     "emoji": "🎤",
-    "description": "microphone, speech, talk",
+    "description": "microphone, speech, talk, singing",
     "name": "microphone"
   },
   {
     "emoji": "🎥",
-    "description": "camera, recording, video, film, cinema",
+    "description": "camera, recording, video, film, cinema, content creation",
     "name": "movie_camera"
   },
   {
     "emoji": "🎦",
-    "description": "camera, recording, video, film, cinema",
+    "description": "camera, blue, recording, video, film, cinema",
     "name": "cinema"
   },
   {
@@ -981,7 +981,7 @@
   },
   {
     "emoji": "🎨",
-    "description": "art, painting, colors",
+    "description": "art, inspiration, design, colors, creativity, painting, colors",
     "name": "art"
   },
   {
@@ -1006,7 +1006,7 @@
   },
   {
     "emoji": "🎭",
-    "description": "theater",
+    "description": "theater, drama, masks",
     "name": "performing_arts"
   },
   {
@@ -1016,7 +1016,7 @@
   },
   {
     "emoji": "🎯",
-    "description": "target",
+    "description": "target, goal, task",
     "name": "dart"
   },
   {
@@ -1031,7 +1031,7 @@
   },
   {
     "emoji": "🎲",
-    "description": "dice, one, 1, games",
+    "description": "dice, one, 1, games, luck",
     "name": "game_die"
   },
   {
@@ -1046,42 +1046,42 @@
   },
   {
     "emoji": "🎵",
-    "description": "music, note",
+    "description": "music, song, note",
     "name": "musical_note"
   },
   {
     "emoji": "🎶",
-    "description": "music, note",
+    "description": "music, song, note",
     "name": "notes"
   },
   {
     "emoji": "🎷",
-    "description": "music, sax, instrument",
+    "description": "music, sax, song, instrument",
     "name": "saxophone"
   },
   {
     "emoji": "🎸",
-    "description": "music, guitar, instrument, electric",
+    "description": "music, guitar, instrument, electric, song",
     "name": "guitar"
   },
   {
     "emoji": "🎹",
-    "description": "music, piano, instrument",
+    "description": "music, piano, instrument, song",
     "name": "musical_keyboard"
   },
   {
     "emoji": "🎺",
-    "description": "music, trumpet, instrument",
+    "description": "music, trumpet, instrument, song",
     "name": "trumpet"
   },
   {
     "emoji": "🎻",
-    "description": "music, instrument, violin",
+    "description": "music, instrument, violin, sound",
     "name": "violin"
   },
   {
     "emoji": "🎼",
-    "description": "music",
+    "description": "music, sound",
     "name": "musical_score"
   },
   {
@@ -1101,7 +1101,7 @@
   },
   {
     "emoji": "🏀",
-    "description": "basketball, sport",
+    "description": "basketball, sport, orange",
     "name": "basketball"
   },
   {
@@ -1126,12 +1126,12 @@
   },
   {
     "emoji": "🏅",
-    "description": "medal, win",
+    "description": "medal, win, gold",
     "name": "medal_sports"
   },
   {
     "emoji": "🏆",
-    "description": "trophy, win",
+    "description": "trophy, win, gold",
     "name": "trophy"
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "emoji": "🏈",
-    "description": "football, sport",
+    "description": "football, sport, brown",
     "name": "football"
   },
   {
@@ -1161,7 +1161,7 @@
   },
   {
     "emoji": "🏐",
-    "description": "football, sport",
+    "description": "football, sport, white",
     "name": "volleyball"
   },
   {
@@ -1216,7 +1216,7 @@
   },
   {
     "emoji": "🏧",
-    "description": "atm",
+    "description": "atm, blue",
     "name": "atm"
   },
   {
@@ -1271,7 +1271,7 @@
   },
   {
     "emoji": "🏸",
-    "description": "badminton, sport",
+    "description": "badminton, racket, sport",
     "name": "badminton"
   },
   {
@@ -1286,342 +1286,342 @@
   },
   {
     "emoji": "🐀",
-    "description": "",
+    "description": "animal",
     "name": "rat"
   },
   {
     "emoji": "🐁",
-    "description": "",
+    "description": "animal",
     "name": "mouse2"
   },
   {
     "emoji": "🐂",
-    "description": "",
+    "description": "animal",
     "name": "ox"
   },
   {
     "emoji": "🐃",
     "description": "",
-    "name": "water_buffalo"
+    "name": "water_buffalo, animal"
   },
   {
     "emoji": "🐄",
-    "description": "",
+    "description": "animal, cow",
     "name": "cow2"
   },
   {
     "emoji": "🐅",
-    "description": "",
+    "description": "animal",
     "name": "tiger2"
   },
   {
     "emoji": "🐆",
-    "description": "",
+    "description": "animal",
     "name": "leopard"
   },
   {
     "emoji": "🐇",
-    "description": "",
+    "description": "animal, rabbit, bunny, hair",
     "name": "rabbit2"
   },
   {
     "emoji": "🐈",
-    "description": "",
+    "description": "animal, cat",
     "name": "cat2"
   },
   {
     "emoji": "🐉",
-    "description": "",
+    "description": "animal",
     "name": "dragon"
   },
   {
     "emoji": "🐊",
-    "description": "",
+    "description": "animal, green, alagator",
     "name": "crocodile"
   },
   {
     "emoji": "🐋",
-    "description": "",
+    "description": "blue, animal",
     "name": "whale2"
   },
   {
     "emoji": "🐌",
-    "description": "",
+    "description": "animal",
     "name": "snail"
   },
   {
     "emoji": "🐍",
-    "description": "",
+    "description": "animal",
     "name": "snake"
   },
   {
     "emoji": "🐎",
-    "description": "",
+    "description": "animal",
     "name": "racehorse"
   },
   {
     "emoji": "🐏",
-    "description": "",
+    "description": "animal",
     "name": "ram"
   },
   {
     "emoji": "🐐",
-    "description": "",
+    "description": "animal",
     "name": "goat"
   },
   {
     "emoji": "🐑",
-    "description": "",
+    "description": "animal",
     "name": "sheep"
   },
   {
     "emoji": "🐒",
-    "description": "",
+    "description": "animal",
     "name": "monkey"
   },
   {
     "emoji": "🐓",
-    "description": "",
+    "description": "animal",
     "name": "rooster"
   },
   {
     "emoji": "🐔",
-    "description": "",
+    "description": "animal",
     "name": "chicken"
   },
   {
     "emoji": "🐕",
-    "description": "",
+    "description": "animal",
     "name": "dog2"
   },
   {
     "emoji": "🐖",
-    "description": "",
+    "description": "animal",
     "name": "pig2"
   },
   {
     "emoji": "🐗",
-    "description": "",
+    "description": "animal",
     "name": "boar"
   },
   {
     "emoji": "🐘",
-    "description": "",
+    "description": "animal",
     "name": "elephant"
   },
   {
     "emoji": "🐙",
-    "description": "",
+    "description": "animal",
     "name": "octopus"
   },
   {
     "emoji": "🐚",
-    "description": "",
+    "description": "sea, seashell, ocean, beach",
     "name": "shell"
   },
   {
     "emoji": "🐛",
-    "description": "",
+    "description": "animal, insect",
     "name": "bug"
   },
   {
     "emoji": "🐜",
-    "description": "",
+    "description": "animal, bug, insect",
     "name": "ant"
   },
   {
     "emoji": "🐝",
-    "description": "",
+    "description": "animal, bug, insect",
     "name": "bee"
   },
   {
     "emoji": "🐞",
-    "description": "",
+    "description": "animal, bug, insect",
     "name": "beetle"
   },
   {
     "emoji": "🐟",
-    "description": "",
+    "description": "animal",
     "name": "fish"
   },
   {
     "emoji": "🐠",
-    "description": "",
+    "description": "animal",
     "name": "tropical_fish"
   },
   {
     "emoji": "🐡",
-    "description": "",
+    "description": "animal",
     "name": "blowfish"
   },
   {
     "emoji": "🐢",
-    "description": "",
+    "description": "animal, green",
     "name": "turtle"
   },
   {
     "emoji": "🐣",
-    "description": "",
+    "description": "animal",
     "name": "hatching_chick"
   },
   {
     "emoji": "🐤",
-    "description": "",
+    "description": "animal",
     "name": "baby_chick"
   },
   {
     "emoji": "🐥",
-    "description": "",
+    "description": "animal",
     "name": "hatched_chick"
   },
   {
     "emoji": "🐦",
-    "description": "",
+    "description": "animal",
     "name": "bird"
   },
   {
     "emoji": "🐧",
-    "description": "",
+    "description": "animal, linux",
     "name": "penguin"
   },
   {
     "emoji": "🐨",
-    "description": "",
+    "description": "animal",
     "name": "koala"
   },
   {
     "emoji": "🐩",
-    "description": "",
+    "description": "animal",
     "name": "poodle"
   },
   {
     "emoji": "🐪",
-    "description": "",
+    "description": "animal",
     "name": "dromedary_camel"
   },
   {
     "emoji": "🐫",
-    "description": "",
+    "description": "animal",
     "name": "camel"
   },
   {
     "emoji": "🐬",
-    "description": "",
+    "description": "animal",
     "name": "dolphin"
   },
   {
     "emoji": "🐭",
-    "description": "",
+    "description": "animal, face",
     "name": "mouse"
   },
   {
     "emoji": "🐮",
-    "description": "",
+    "description": "animal, face",
     "name": "cow"
   },
   {
     "emoji": "🐯",
-    "description": "",
+    "description": "animal, face",
     "name": "tiger"
   },
   {
     "emoji": "🐰",
-    "description": "",
+    "description": "animal, cute",
     "name": "rabbit"
   },
   {
     "emoji": "🐱",
-    "description": "",
+    "description": "animal, face, cute",
     "name": "cat"
   },
   {
     "emoji": "🐲",
-    "description": "",
+    "description": "animal",
     "name": "dragon_face"
   },
   {
     "emoji": "🐳",
-    "description": "",
+    "description": "animal",
     "name": "whale"
   },
   {
     "emoji": "🐴",
-    "description": "",
+    "description": "animal, face",
     "name": "horse"
   },
   {
     "emoji": "🐵",
-    "description": "",
+    "description": "animal, face",
     "name": "monkey_face"
   },
   {
     "emoji": "🐶",
-    "description": "",
+    "description": "animal, face",
     "name": "dog"
   },
   {
     "emoji": "🐷",
-    "description": "",
+    "description": "animal, face",
     "name": "pig"
   },
   {
     "emoji": "🐸",
-    "description": "frog",
+    "description": "frog, animal, face",
     "name": "frog"
   },
   {
     "emoji": "🐹",
-    "description": "",
+    "description": "animal, face",
     "name": "hamster"
   },
   {
     "emoji": "🐺",
-    "description": "",
+    "description": "animal, face",
     "name": "wolf"
   },
   {
     "emoji": "🐻",
-    "description": "",
+    "description": "animal, face",
     "name": "bear"
   },
   {
     "emoji": "🐼",
-    "description": "",
+    "description": "animal",
     "name": "panda_face"
   },
   {
     "emoji": "🐽",
-    "description": "",
+    "description": "animal, nose",
     "name": "pig_nose"
   },
   {
     "emoji": "🐾",
-    "description": "",
+    "description": "animal, tracks",
     "name": "feet"
   },
   {
     "emoji": "👀",
-    "description": "",
+    "description": "looking",
     "name": "eyes"
   },
   {
     "emoji": "👂",
-    "description": "",
+    "description": "listen, sound",
     "name": "ear"
   },
   {
     "emoji": "👃",
-    "description": "",
+    "description": "smell",
     "name": "nose"
   },
   {
     "emoji": "👄",
-    "description": "",
+    "description": "mouth",
     "name": "lips"
   },
   {
     "emoji": "👅",
-    "description": "",
+    "description": "mouth, silly",
     "name": "tongue"
   },
   {
