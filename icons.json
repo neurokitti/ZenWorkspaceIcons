@@ -11,22 +11,22 @@
   },
   {
     "emoji": "⏪",
-    "description": "left, arrow, rewind, back",
+    "description": "left, arrow, rewind, back, blue",
     "name": "rewind"
   },
   {
     "emoji": "⏫",
-    "description": "up, arrow, increase",
+    "description": "up, arrow, increase, blue",
     "name": "arrow_double_up"
   },
   {
     "emoji": "⏬",
-    "description": "down, arrow, decrease",
+    "description": "down, arrow, decrease, blue",
     "name": "arrow_double_down"
   },
   {
     "emoji": "⏰",
-    "description": "clock, alarm, time",
+    "description": "clock, alarm, time, red",
     "name": "alarm_clock"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "emoji": "⛎",
-    "description": "zodiac, horoscope",
+    "description": "zodiac, horoscope,  purple",
     "name": "ophiuchus"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "emoji": "⛽",
-    "description": "gas, gas station, fuel, petrol, oil",
+    "description": "gas, gas station, fuel, petrol, oil, red",
     "name": "fuelpump"
   },
   {
