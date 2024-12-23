@@ -6,37 +6,37 @@
   },
   {
     "emoji": "⌛",
-    "description": "sand, clock, hourglass done, time",
+    "description": "hourglass done, time, sand, clock",
     "name": "hourglass"
   },
   {
     "emoji": "⏪",
-    "description": "fast reverse button, arrow, blue, rewind, left, back",
+    "description": "arrow, blue, rewind, fast reverse button, left, back",
     "name": "rewind"
   },
   {
     "emoji": "⏫",
-    "description": "up, arrow, increase, fast up button, blue",
+    "description": "increase, arrow, fast up button, blue, up",
     "name": "arrow_double_up"
   },
   {
     "emoji": "⏬",
-    "description": "arrow, blue, fast down button, down, decrease",
+    "description": "decrease, down, arrow, blue, fast down button",
     "name": "arrow_double_down"
   },
   {
     "emoji": "⏰",
-    "description": "alarm clock, alarm, clock, red, time",
+    "description": "alarm clock, clock, alarm, time, red",
     "name": "alarm_clock"
   },
   {
     "emoji": "⏳",
-    "description": "sand, clock, hourglass not done, time",
+    "description": "hourglass not done, time, sand, clock",
     "name": "hourglass_flowing_sand"
   },
   {
     "emoji": "⚽",
-    "description": "soccer ball,, sports, soccer ball, ball, football, soccer",
+    "description": "sports, football, soccer ball, ball, soccer, soccer ball,",
     "name": "soccer"
   },
   {
@@ -46,22 +46,22 @@
   },
   {
     "emoji": "⛄",
-    "description": "snow, snowman without snow, snowman, holidays, christmas",
+    "description": "snowman, snowman without snow, christmas, holidays, snow",
     "name": "snowman"
   },
   {
     "emoji": "⛅",
-    "description": "weather, sun, sunny, sun behind cloud, cloudy",
+    "description": "sun, sun behind cloud, cloudy, sunny, weather",
     "name": "partly_sunny"
   },
   {
     "emoji": "⛎",
-    "description": " purple, horoscope, zodiac, Ophiuchus",
+    "description": "zodiac, horoscope, Ophiuchus,  purple",
     "name": "ophiuchus"
   },
   {
     "emoji": "⛔",
-    "description": "red, sign, stop, no entry",
+    "description": "sign, red, stop, no entry",
     "name": "no_entry"
   },
   {
@@ -76,13 +76,13 @@
   },
   {
     "emoji": "⛳",
-    "description": "sports, flag in hole, golf, flag",
+    "description": "sports, golf, flag in hole, flag",
     "name": "golf"
   },
   {
     "emoji": "⛵",
-    "description": "vessel, water, ship, ocean, vacation, sea, travel, boat, sailing, sailboat",
-    "name": "boat"
+    "description": "vessel, vacation, sailing, sea, ship, sailboat, water, boat, travel, ocean",
+    "name": "sailboat"
   },
   {
     "emoji": "⛺",
@@ -91,23 +91,23 @@
   },
   {
     "emoji": "⛽",
-    "description": "fuel, gas station, oil, gas, petrol, fuel pump, red",
+    "description": "oil, petrol, fuel pump, gas, red, gas station, fuel",
     "name": "fuelpump"
   },
   {
     "emoji": "✅",
-    "description": "check mark button, approve, check, task, success, tick, check mark, accept, yes",
+    "description": "approve, check, check mark, tick, check mark button, accept, yes, success, task",
     "name": "white_check_mark"
   },
   {
     "emoji": "✊",
-    "description": "solidarity, empowerment, raised fist, strength, fist, justice",
-    "name": "fist_raised"
+    "description": "justice, raised fist, solidarity, empowerment, fist, strength",
+    "name": "fist"
   },
   {
     "emoji": "✋",
-    "description": "raised hand, halt, stop, hand",
-    "name": "hand"
+    "description": "hand, stop, halt, raised hand",
+    "name": "raised_hand"
   },
   {
     "emoji": "✨",
@@ -116,17 +116,17 @@
   },
   {
     "emoji": "❌",
-    "description": "cross, wrong, cross mark, red, no",
+    "description": "cross mark, cross, wrong, no, red",
     "name": "x"
   },
   {
     "emoji": "❎",
-    "description": "green,, cross mark button, cross, no",
+    "description": "cross, no, green,, cross mark button",
     "name": "negative_squared_cross_mark"
   },
   {
     "emoji": "❓",
-    "description": "curiosity, question mark, punctuation, question, red",
+    "description": "curiosity, question mark, question, punctuation, red",
     "name": "question"
   },
   {
@@ -136,12 +136,12 @@
   },
   {
     "emoji": "⭕",
-    "description": "o, round, hoop, hollow red circle, circle, red",
+    "description": "hoop, hollow red circle, o, circle, red, round",
     "name": "o"
   },
   {
     "emoji": "🀄",
-    "description": "china, mahjong red dragon, game",
+    "description": "mahjong red dragon, china, game",
     "name": "mahjong"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "emoji": "🆎",
-    "description": "AB button (blood type), red,",
+    "description": "red,, AB button (blood type)",
     "name": "ab"
   },
   {
@@ -161,62 +161,62 @@
   },
   {
     "emoji": "🆒",
-    "description": "cool, COOL button, blue",
+    "description": "cool, blue, COOL button",
     "name": "cool"
   },
   {
     "emoji": "🆓",
-    "description": "FREE button, blue, free",
+    "description": "free, blue, FREE button",
     "name": "free"
   },
   {
     "emoji": "🆔",
-    "description": "security, authentication, id, ID button, verification, identification, purple",
+    "description": "authentication, security, purple, identification, id, verification, ID button",
     "name": "id"
   },
   {
     "emoji": "🆕",
-    "description": "NEW button, blue, new",
+    "description": "new, blue, NEW button",
     "name": "new"
   },
   {
     "emoji": "🆖",
-    "description": "ng, NG button, ana ng, blue",
+    "description": "blue, ana ng, NG button, ng",
     "name": "ng"
   },
   {
     "emoji": "🆗",
-    "description": "okay, OK button, blue, ok",
+    "description": "blue, okay, ok, OK button",
     "name": "ok"
   },
   {
     "emoji": "🆘",
-    "description": "SOS button, sos, emergency, danger, red, help",
+    "description": "SOS button, emergency, danger, red, help, sos",
     "name": "sos"
   },
   {
     "emoji": "🆙",
-    "description": "up, blue, UP! button",
+    "description": "UP! button, up, blue",
     "name": "up"
   },
   {
     "emoji": "🆚",
-    "description": "vs, battle, duel, challenge, orange, VS button, contest, versus, competition",
+    "description": "versus, duel, orange, contest, challenge, vs, battle, competition, VS button",
     "name": "vs"
   },
   {
     "emoji": "🈁",
-    "description": "here, Japanese here button, blue, japanese",
+    "description": "here, blue, japanese, Japanese here button",
     "name": "koko"
   },
   {
     "emoji": "🈚",
-    "description": "orange, Japanese free of charge button, japanese",
+    "description": "Japanese free of charge button, orange, japanese",
     "name": "u7121"
   },
   {
     "emoji": "🈯",
-    "description": "green, Japanese reserved button, japanese",
+    "description": "Japanese reserved button, japanese, green",
     "name": "u6307"
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "emoji": "🈳",
-    "description": "Japanese vacancy button, blue, japanese",
+    "description": "blue, Japanese vacancy button, japanese",
     "name": "u7a7a"
   },
   {
@@ -241,12 +241,12 @@
   },
   {
     "emoji": "🈶",
-    "description": "orange, Japanese not free of charge button, japanese",
+    "description": "Japanese not free of charge button, orange, japanese",
     "name": "u6709"
   },
   {
     "emoji": "🈸",
-    "description": "orange, Japanese application button, japanese",
+    "description": "Japanese application button, orange, japanese",
     "name": "u7533"
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "emoji": "🈺",
-    "description": "orange, Japanese open for business button, japanese",
+    "description": "Japanese open for business button, orange, japanese",
     "name": "u55b6"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "emoji": "🉑",
-    "description": "orange, Japanese acceptable button, japanese",
+    "description": "Japanese acceptable button, orange, japanese",
     "name": "accept"
   },
   {
@@ -276,22 +276,22 @@
   },
   {
     "emoji": "🌁",
-    "description": "foggy, cloudy, bridge",
+    "description": "foggy, bridge, cloudy",
     "name": "foggy"
   },
   {
     "emoji": "🌂",
-    "description": ", weather, rain, closed umbrella, purple, umbrella",
+    "description": ", umbrella, purple, rain, closed umbrella, weather",
     "name": "closed_umbrella"
   },
   {
     "emoji": "🌃",
-    "description": "city, night, night with stars, scenery",
+    "description": "night, city, night with stars, scenery",
     "name": "night_with_stars"
   },
   {
     "emoji": "🌄",
-    "description": "nature, sun, sunrise, sunset, sunrise over mountains, scenery",
+    "description": "sunrise, sunrise over mountains, sun, sunset, nature, scenery",
     "name": "sunrise_over_mountains"
   },
   {
@@ -301,13 +301,13 @@
   },
   {
     "emoji": "🌆",
-    "description": "cityscape at dusk, scenery, city,",
-    "name": "city_sunset"
+    "description": "cityscape at dusk, city,, scenery",
+    "name": "city_dusk"
   },
   {
     "emoji": "🌇",
-    "description": "city, sunset, evening, scenery",
-    "name": "city_sunrise"
+    "description": "city, evening, sunset, scenery",
+    "name": "city_sunset"
   },
   {
     "emoji": "🌈",
@@ -321,7 +321,7 @@
   },
   {
     "emoji": "🌊",
-    "description": "water wave, water, art, sea, wave, blue, ocean, tsunami",
+    "description": "water wave, tsunami, water, blue, ocean, art, sea, wave",
     "name": "ocean"
   },
   {
@@ -331,27 +331,27 @@
   },
   {
     "emoji": "🌌",
-    "description": "stars, blue, galaxy, science, milky way, cosmos, nebula",
+    "description": "science, milky way, galaxy, cosmos, stars, blue, nebula",
     "name": "milky_way"
   },
   {
     "emoji": "🌍",
-    "description": "school, africa, globe showing Europe-Africa, world, globe, map, blue, earth, geography, planet",
+    "description": "africa, blue, planet, school, map, world, earth, globe, globe showing Europe-Africa, geography",
     "name": "earth_africa"
   },
   {
     "emoji": "🌎",
-    "description": "school, globe showing Americas, world, globe, map, blue, earth, geography, planet, america",
+    "description": "blue, planet, america, school, map, globe showing Americas, world, earth, globe, geography",
     "name": "earth_americas"
   },
   {
     "emoji": "🌏",
-    "description": "school, globe showing Asia-Australia, world, globe, map, asia, blue, earth, australia, geography, planet",
+    "description": "globe showing Asia-Australia, blue, asia, planet, school, map, world, earth, globe, australia, geography",
     "name": "earth_asia"
   },
   {
     "emoji": "🌐",
-    "description": "globe with meridians, technology, world, internet, tech, network, blue, web, www",
+    "description": "globe with meridians, blue, tech, internet, www, world, network, technology, web",
     "name": "globe_with_meridians"
   },
   {
@@ -361,37 +361,37 @@
   },
   {
     "emoji": "🌒",
-    "description": "night, astronomy, space, moon, waxing crescent moon",
+    "description": "night, waxing crescent moon, astronomy, space, moon",
     "name": "waxing_crescent_moon"
   },
   {
     "emoji": "🌓",
-    "description": "night, astronomy, first quarter moon, space, moon",
+    "description": "night, first quarter moon, astronomy, space, moon",
     "name": "first_quarter_moon"
   },
   {
     "emoji": "🌔",
-    "description": "night, astronomy, waxing gibbous moon, space, moon",
-    "name": "moon"
+    "description": "night, waxing gibbous moon, astronomy, space, moon",
+    "name": "waxing_gibbous_moon"
   },
   {
     "emoji": "🌕",
-    "description": "night, astronomy, space, full moon, moon, yellow",
+    "description": "night, astronomy, full moon, space, yellow, moon",
     "name": "full_moon"
   },
   {
     "emoji": "🌖",
-    "description": "night, astronomy, space, moon, waning gibbous moon",
+    "description": "night, astronomy, waning gibbous moon, space, moon",
     "name": "waning_gibbous_moon"
   },
   {
     "emoji": "🌗",
-    "description": "night, astronomy, space, last quarter moon, moon",
+    "description": "night, astronomy, last quarter moon, space, moon",
     "name": "last_quarter_moon"
   },
   {
     "emoji": "🌘",
-    "description": "night, waning crescent moon, astronomy, space, moon",
+    "description": "night, astronomy, waning crescent moon, space, moon",
     "name": "waning_crescent_moon"
   },
   {
@@ -401,37 +401,37 @@
   },
   {
     "emoji": "🌚",
-    "description": "face, night, astronomy, space, moon, purple, new moon face",
+    "description": "night, face, new moon face, astronomy, purple, space, moon",
     "name": "new_moon_with_face"
   },
   {
     "emoji": "🌛",
-    "description": "face, night, astronomy, space, smile, moon, first quarter moon face, yellow",
+    "description": "night, face, astronomy, first quarter moon face, smile, space, yellow, moon",
     "name": "first_quarter_moon_with_face"
   },
   {
     "emoji": "🌜",
-    "description": "face, night, astronomy, space, smile, last quarter moon face, moon, yellow",
+    "description": "night, face, astronomy, smile, last quarter moon face, space, yellow, moon",
     "name": "last_quarter_moon_with_face"
   },
   {
     "emoji": "🌝",
-    "description": "face, night, astronomy, space, smile, full moon face, moon, yellow",
+    "description": "night, face, full moon face, astronomy, smile, space, yellow, moon",
     "name": "full_moon_with_face"
   },
   {
     "emoji": "🌞",
-    "description": "face, night, astronomy, sun with face, space, smile, moon, yellow",
+    "description": "sun with face, night, face, astronomy, smile, space, yellow, moon",
     "name": "sun_with_face"
   },
   {
     "emoji": "🌟",
-    "description": "night, glowing star, sparkle, star, yellow",
+    "description": "sparkle, night, star, glowing star, yellow",
     "name": "star2"
   },
   {
     "emoji": "🌠",
-    "description": "night, shooting star, falling, cosmos, star",
+    "description": "night, falling, star, cosmos, shooting star",
     "name": "stars"
   },
   {
@@ -446,32 +446,32 @@
   },
   {
     "emoji": "🌯",
-    "description": "shawarma, burrito, food, wrap",
+    "description": "food, wrap, shawarma, burrito",
     "name": "burrito"
   },
   {
     "emoji": "🌰",
-    "description": "onion, chestnut, food",
+    "description": "food, chestnut, onion",
     "name": "chestnut"
   },
   {
     "emoji": "🌱",
-    "description": "green, , growth, plant, seedling",
+    "description": ", green, plant, growth, seedling",
     "name": "seedling"
   },
   {
     "emoji": "🌲",
-    "description": "green, spruce, evergreen tree, holidays, christmas, tree",
+    "description": "holidays, christmas, green, evergreen tree, spruce, tree",
     "name": "evergreen_tree"
   },
   {
     "emoji": "🌳",
-    "description": "green, nature, environment, plant, deciduous tree, oak, forest, tree",
+    "description": "oak, deciduous tree, environment, plant, nature, forest, tree, green",
     "name": "deciduous_tree"
   },
   {
     "emoji": "🌴",
-    "description": "palm tree, beach, palm, island, tree, vacation",
+    "description": "palm tree, vacation, palm, island, tree, beach",
     "name": "palm_tree"
   },
   {
@@ -486,7 +486,7 @@
   },
   {
     "emoji": "🌸",
-    "description": "nature, bloom, sakura, plant, flower, cherry blossom, pink",
+    "description": "pink, bloom, plant, nature, flower, sakura, cherry blossom",
     "name": "cherry_blossom"
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "emoji": "🌺",
-    "description": "nature, plant, flower, pink, hibiscus",
+    "description": "hibiscus, pink, plant, nature, flower",
     "name": "hibiscus"
   },
   {
@@ -506,42 +506,42 @@
   },
   {
     "emoji": "🌼",
-    "description": "nature, blossom, plant, flower, white",
+    "description": "blossom, plant, nature, flower, white",
     "name": "blossom"
   },
   {
     "emoji": "🌽",
-    "description": "ear of corn, food, corn",
+    "description": "food, corn, ear of corn",
     "name": "corn"
   },
   {
     "emoji": "🌾",
-    "description": "wheat, sheaf of rice, food",
+    "description": "food, sheaf of rice, wheat",
     "name": "ear_of_rice"
   },
   {
     "emoji": "🌿",
-    "description": "plant, herb",
+    "description": "herb, plant",
     "name": "herb"
   },
   {
     "emoji": "🍀",
-    "description": "green, four leaf clover, plant, fortune, lucky, clover",
+    "description": "lucky, four leaf clover, fortune, clover, green, plant",
     "name": "four_leaf_clover"
   },
   {
     "emoji": "🍁",
-    "description": "nature, canada, autumn, fall, plant, maple leaf, leaf, red",
+    "description": "maple leaf, autumn, plant, nature, leaf, fall, red, canada",
     "name": "maple_leaf"
   },
   {
     "emoji": "🍂",
-    "description": "nature, plant, fall, dead leaves, fallen leaf, brown, leaf, autumn",
+    "description": "brown, leaf, autumn, plant, nature, fall, dead leaves, fallen leaf",
     "name": "fallen_leaf"
   },
   {
     "emoji": "🍃",
-    "description": "nature, green, leaf fluttering in wind, plant, leaf",
+    "description": "nature, green, leaf, leaf fluttering in wind, plant",
     "name": "leaves"
   },
   {
@@ -561,7 +561,7 @@
   },
   {
     "emoji": "🍇",
-    "description": "grapes, food, fruit, grape, purple",
+    "description": "food, fruit, grapes, grape, purple",
     "name": "grapes"
   },
   {
@@ -576,7 +576,7 @@
   },
   {
     "emoji": "🍊",
-    "description": "fruit, tangerine, food, orange",
+    "description": "food, fruit, tangerine, orange",
     "name": "tangerine"
   },
   {
@@ -596,12 +596,12 @@
   },
   {
     "emoji": "🍎",
-    "description": "apple, food, red apple, fruit, red, school,",
+    "description": "food, red apple, fruit, apple, school,, red",
     "name": "apple"
   },
   {
     "emoji": "🍏",
-    "description": "green, apple, food, fruit, green apple",
+    "description": "food, fruit, green, apple, green apple",
     "name": "green_apple"
   },
   {
@@ -616,7 +616,7 @@
   },
   {
     "emoji": "🍒",
-    "description": "cherries, food, fruit, cherry, red",
+    "description": "food, fruit, cherries, cherry, red",
     "name": "cherries"
   },
   {
@@ -636,7 +636,7 @@
   },
   {
     "emoji": "🍖",
-    "description": "meat on bone, ham, food",
+    "description": "food, meat on bone, ham",
     "name": "meat_on_bone"
   },
   {
@@ -651,27 +651,27 @@
   },
   {
     "emoji": "🍙",
-    "description": "rice ball, rice, onigiri, food",
+    "description": "onigiri, rice, rice ball, food",
     "name": "rice_ball"
   },
   {
     "emoji": "🍚",
-    "description": "cooked rice, rice, food",
+    "description": "food, rice, cooked rice",
     "name": "rice"
   },
   {
     "emoji": "🍛",
-    "description": "curry, rice, food, curry rice",
+    "description": "food, rice, curry, curry rice",
     "name": "curry"
   },
   {
     "emoji": "🍜",
-    "description": "steaming bowl, ramen, food, noodles",
+    "description": "food, steaming bowl, ramen, noodles",
     "name": "ramen"
   },
   {
     "emoji": "🍝",
-    "description": "pasta, food, spaghetti",
+    "description": "food, pasta, spaghetti",
     "name": "spaghetti"
   },
   {
@@ -681,12 +681,12 @@
   },
   {
     "emoji": "🍟",
-    "description": "french fries, fries, french, food",
+    "description": "fries, french fries, french, food",
     "name": "fries"
   },
   {
     "emoji": "🍠",
-    "description": "roasted sweet potato, potato, sweet, food, roasted",
+    "description": "food, roasted, roasted sweet potato, sweet, potato",
     "name": "sweet_potato"
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "emoji": "🍤",
-    "description": "fried shrimp, prawn, food",
+    "description": "food, prawn, fried shrimp",
     "name": "fried_shrimp"
   },
   {
@@ -716,12 +716,12 @@
   },
   {
     "emoji": "🍦",
-    "description": "desert, icecrean, food, soft ice cream",
+    "description": "desert, icecrean, soft ice cream, food",
     "name": "icecream"
   },
   {
     "emoji": "🍧",
-    "description": "desert, icecrean, food, shaved ice",
+    "description": "desert, icecrean, shaved ice, food",
     "name": "shaved_ice"
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "emoji": "🍩",
-    "description": "desert, donut, food, doughnut",
+    "description": "desert, donut, doughnut, food",
     "name": "doughnut"
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "emoji": "🍫",
-    "description": "desert, chocolate, food, chocolate bar",
+    "description": "desert, chocolate, chocolate bar, food",
     "name": "chocolate_bar"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "emoji": "🍭",
-    "description": "desert, lollipop, candy, food",
+    "description": "desert, candy, lollipop, food",
     "name": "lollipop"
   },
   {
@@ -761,37 +761,37 @@
   },
   {
     "emoji": "🍯",
-    "description": "honey pot, honey, food",
+    "description": "food, honey, honey pot",
     "name": "honey_pot"
   },
   {
     "emoji": "🍰",
-    "description": "shortcake, food, cakedesert",
+    "description": "food, shortcake, cakedesert",
     "name": "cake"
   },
   {
     "emoji": "🍱",
-    "description": "bento, rice, food, bento box",
+    "description": "bento, rice, bento box, food",
     "name": "bento"
   },
   {
     "emoji": "🍲",
-    "description": "pot of food, soup, food",
+    "description": "food, soup, pot of food",
     "name": "stew"
   },
   {
     "emoji": "🍳",
-    "description": "cooking, omelette, food, egg",
-    "name": "fried_egg"
+    "description": "food, cooking, omelette, egg",
+    "name": "cooking"
   },
   {
     "emoji": "🍴",
-    "description": "cutlery, food, fork, fork and knife, knife",
+    "description": "cutlery, food, fork and knife, fork, knife",
     "name": "fork_and_knife"
   },
   {
     "emoji": "🍵",
-    "description": "drink, teacup without handle, food, tea, chai",
+    "description": "chai, food, drink, tea, teacup without handle",
     "name": "tea"
   },
   {
@@ -801,12 +801,12 @@
   },
   {
     "emoji": "🍷",
-    "description": "wine glass, drink, food, wine",
+    "description": "food, wine glass, wine, drink",
     "name": "wine_glass"
   },
   {
     "emoji": "🍸",
-    "description": "drink, cocktail, food, cocktail glass, martini, glass",
+    "description": "food, glass, cocktail glass, drink, cocktail, martini",
     "name": "cocktail"
   },
   {
@@ -816,22 +816,22 @@
   },
   {
     "emoji": "🍺",
-    "description": "beer mug, drink, beer, food",
+    "description": "food, beer mug, drink, beer",
     "name": "beer"
   },
   {
     "emoji": "🍻",
-    "description": "drink, beer, clinking beer mugs, food",
+    "description": "food, clinking beer mugs, drink, beer",
     "name": "beers"
   },
   {
     "emoji": "🍼",
-    "description": "baby, drink, milk, baby bottle, food",
+    "description": "food, baby bottle, drink, baby, milk",
     "name": "baby_bottle"
   },
   {
     "emoji": "🍾",
-    "description": "drink, bottle with popping cork, food, champagne",
+    "description": "drink, bottle with popping cork, champagne, food",
     "name": "champagne"
   },
   {
@@ -841,32 +841,32 @@
   },
   {
     "emoji": "🎀",
-    "description": "ribbon, cute, decoration, bow, present",
+    "description": "decoration, present, bow, ribbon, cute",
     "name": "ribbon"
   },
   {
     "emoji": "🎁",
-    "description": "wrapped gift, christmas, present",
+    "description": "wrapped gift, present, christmas",
     "name": "gift"
   },
   {
     "emoji": "🎂",
-    "description": "birthday cake, cake, birthday",
+    "description": "birthday, birthday cake, cake",
     "name": "birthday"
   },
   {
     "emoji": "🎃",
-    "description": "pumpkin, scary, orange, fall, halloween, jack-o-lantern, spooky",
+    "description": "scary, pumpkin, spooky, fall, orange, halloween, jack-o-lantern",
     "name": "jack_o_lantern"
   },
   {
     "emoji": "🎄",
-    "description": "Christmas tree, holidays, christmas, tree",
+    "description": "Christmas tree, tree, christmas, holidays",
     "name": "christmas_tree"
   },
   {
     "emoji": "🎅",
-    "description": "holidays, santa, christmas, Santa Claus",
+    "description": "santa, Santa Claus, christmas, holidays",
     "name": "santa"
   },
   {
@@ -876,7 +876,7 @@
   },
   {
     "emoji": "🎇",
-    "description": "party, sparkler, fireworks",
+    "description": "fireworks, sparkler, party",
     "name": "sparkler"
   },
   {
@@ -886,12 +886,12 @@
   },
   {
     "emoji": "🎉",
-    "description": "party, celebration, confetti, party popper",
+    "description": "confetti, party, party popper, celebration",
     "name": "tada"
   },
   {
     "emoji": "🎊",
-    "description": "party, confetti ball, celebration, confetti",
+    "description": "confetti, party, confetti ball, celebration",
     "name": "confetti_ball"
   },
   {
@@ -906,7 +906,7 @@
   },
   {
     "emoji": "🎍",
-    "description": "pine decoration, bamboo",
+    "description": "bamboo, pine decoration",
     "name": "bamboo"
   },
   {
@@ -936,27 +936,27 @@
   },
   {
     "emoji": "🎓",
-    "description": "school, graduation, university, graduate, education, graduation cap",
+    "description": "graduation, graduate, education, school, graduation cap, university",
     "name": "mortar_board"
   },
   {
     "emoji": "🎠",
-    "description": "carousel horse, pony, park, carousel",
+    "description": "park, carousel, carousel horse, pony",
     "name": "carousel_horse"
   },
   {
     "emoji": "🎡",
-    "description": "ferris, ferris wheel, park, wheel",
+    "description": "park, ferris, ferris wheel, wheel",
     "name": "ferris_wheel"
   },
   {
     "emoji": "🎢",
-    "description": "roller coaster, rollercoaster, park",
+    "description": "park, roller coaster, rollercoaster",
     "name": "roller_coaster"
   },
   {
     "emoji": "🎣",
-    "description": "fishing pole, fishing, fish, rod",
+    "description": "fishing, fishing pole, fish, rod",
     "name": "fishing_pole_and_fish"
   },
   {
@@ -966,7 +966,7 @@
   },
   {
     "emoji": "🎥",
-    "description": "content creation, video, movie camera, recording, cinema, camera, film",
+    "description": "recording, movie camera, cinema, film, video, camera, content creation",
     "name": "movie_camera"
   },
   {
@@ -976,22 +976,22 @@
   },
   {
     "emoji": "🎧",
-    "description": "headphone, headphones, music, audio",
+    "description": "music, headphone, headphones, audio",
     "name": "headphones"
   },
   {
     "emoji": "🎨",
-    "description": "colors, art, inspiration, artist palette, painting, creativity, design",
+    "description": "colors, artist palette, creativity, design, painting, art, inspiration",
     "name": "art"
   },
   {
     "emoji": "🎩",
-    "description": "magic, hat, top hat",
+    "description": "hat, top hat, magic",
     "name": "tophat"
   },
   {
     "emoji": "🎪",
-    "description": "circus tent, circus",
+    "description": "circus, circus tent",
     "name": "circus_tent"
   },
   {
@@ -1001,37 +1001,37 @@
   },
   {
     "emoji": "🎬",
-    "description": "video editing, audiovisual, video, media, clapper board",
+    "description": "video editing, media, video, clapper board, audiovisual",
     "name": "clapper"
   },
   {
     "emoji": "🎭",
-    "description": "theater, drama, performing arts, masks",
+    "description": "theater, performing arts, drama, masks",
     "name": "performing_arts"
   },
   {
     "emoji": "🎮",
-    "description": "video game, gaming, xbox, playstation, ps4",
+    "description": "xbox, ps4, gaming, video game, playstation",
     "name": "video_game"
   },
   {
     "emoji": "🎯",
-    "description": "goal, target, direct hit, task",
+    "description": "direct hit, goal, target, task",
     "name": "dart"
   },
   {
     "emoji": "🎰",
-    "description": "slot, casino, slot machine, gambling, games",
+    "description": "slot, casino, slot machine, games, gambling",
     "name": "slot_machine"
   },
   {
     "emoji": "🎱",
-    "description": "billiard, ball, pool 8 ball, 8, eight, games",
+    "description": "billiard, games, ball, 8, eight, pool 8 ball",
     "name": "8ball"
   },
   {
     "emoji": "🎲",
-    "description": "luck, one, dice, 1, game die, games",
+    "description": "dice, luck, games, one, 1, game die",
     "name": "game_die"
   },
   {
@@ -1041,22 +1041,22 @@
   },
   {
     "emoji": "🎴",
-    "description": "card, flower playing cards, play",
+    "description": "play, card, flower playing cards",
     "name": "flower_playing_cards"
   },
   {
     "emoji": "🎵",
-    "description": "song, note, musical note, music",
+    "description": "note, musical note, song, music",
     "name": "musical_note"
   },
   {
     "emoji": "🎶",
-    "description": "song, note, musical notes, music",
+    "description": "note, song, music, musical notes",
     "name": "notes"
   },
   {
     "emoji": "🎷",
-    "description": "song, saxophone, instrument, music, sax",
+    "description": "instrument, song, music, sax, saxophone",
     "name": "saxophone"
   },
   {
@@ -1066,7 +1066,7 @@
   },
   {
     "emoji": "🎹",
-    "description": "piano, song, musical keyboard, instrument, music",
+    "description": "instrument, song, music, piano, musical keyboard",
     "name": "musical_keyboard"
   },
   {
@@ -1081,12 +1081,12 @@
   },
   {
     "emoji": "🎼",
-    "description": "musical score, music, sound",
+    "description": "musical score, sound, music",
     "name": "musical_score"
   },
   {
     "emoji": "🎽",
-    "description": "running shirt, vest, clothes",
+    "description": "clothes, running shirt, vest",
     "name": "running_shirt_with_sash"
   },
   {
@@ -1096,7 +1096,7 @@
   },
   {
     "emoji": "🎿",
-    "description": "skis, sport, scating",
+    "description": "scating, sport, skis",
     "name": "ski"
   },
   {
@@ -1106,28 +1106,28 @@
   },
   {
     "emoji": "🏁",
-    "description": "race, finish, sport, chequered flag",
+    "description": "finish, sport, chequered flag, race",
     "name": "checkered_flag"
   },
   {
     "emoji": "🏂",
-    "description": "snow, snowboard, snowboarder, sport",
+    "description": "snowboarder, snowboard, sport, snow",
     "name": "snowboarder"
   },
   {
     "emoji": "🏃",
-    "description": "person running, running, sport",
-    "name": "running_man"
+    "description": "person running, sport, running",
+    "name": "person_running"
   },
   {
     "emoji": "🏄",
     "description": "person surfing, surfing, sport",
-    "name": "surfing_man"
+    "name": "person_surfing"
   },
   {
     "emoji": "🏅",
-    "description": "win, gold, medal, sports medal",
-    "name": "medal_sports"
+    "description": "gold, win, medal, sports medal",
+    "name": "medal"
   },
   {
     "emoji": "🏆",
@@ -1136,7 +1136,7 @@
   },
   {
     "emoji": "🏇",
-    "description": "horse racing, horse, racing, sport",
+    "description": "horse racing, horse, sport, racing",
     "name": "horse_racing"
   },
   {
@@ -1151,28 +1151,28 @@
   },
   {
     "emoji": "🏊",
-    "description": "swimming, sport, person swimming",
-    "name": "swimming_man"
+    "description": "sport, swimming, person swimming",
+    "name": "person_swimming"
   },
   {
     "emoji": "🏏",
-    "description": "baseball, cricket game, sport, cricket",
-    "name": "cricket"
+    "description": "baseball, sport, cricket, cricket game",
+    "name": "cricket_game"
   },
   {
     "emoji": "🏐",
-    "description": "volleyball, football, sport, white",
+    "description": "white, football, volleyball, sport",
     "name": "volleyball"
   },
   {
     "emoji": "🏑",
-    "description": "hockey, field, sport, field hockey",
+    "description": "hockey, field hockey, sport, field",
     "name": "field_hockey"
   },
   {
     "emoji": "🏒",
     "description": "hockey, ice hockey, sport",
-    "name": "ice_hockey"
+    "name": "hockey"
   },
   {
     "emoji": "🏓",
@@ -1186,22 +1186,22 @@
   },
   {
     "emoji": "🏡",
-    "description": "home, house with garden, building, house",
+    "description": "building, house with garden, home, house",
     "name": "house_with_garden"
   },
   {
     "emoji": "🏢",
-    "description": "work, building, office, office building",
+    "description": "office building, work, building, office",
     "name": "office"
   },
   {
     "emoji": "🏣",
-    "description": "post, Japanese post office, building, office",
+    "description": "building, post, office, Japanese post office",
     "name": "post_office"
   },
   {
     "emoji": "🏤",
-    "description": "post, post office, building, office",
+    "description": "post office, building, post, office",
     "name": "european_post_office"
   },
   {
@@ -1226,12 +1226,12 @@
   },
   {
     "emoji": "🏩",
-    "description": "love hotel, love, building, hotel",
+    "description": "love, building, hotel, love hotel",
     "name": "love_hotel"
   },
   {
     "emoji": "🏪",
-    "description": "groceries, shop, convenience store, building, convenience, store",
+    "description": "store, building, shop, groceries, convenience store, convenience",
     "name": "convenience_store"
   },
   {
@@ -1241,7 +1241,7 @@
   },
   {
     "emoji": "🏬",
-    "description": "building, store, department store",
+    "description": "store, building, department store",
     "name": "department_store"
   },
   {
@@ -1251,12 +1251,12 @@
   },
   {
     "emoji": "🏮",
-    "description": "red paper lantern, lamp, light",
+    "description": "lamp, red paper lantern, light",
     "name": "izakaya_lantern"
   },
   {
     "emoji": "🏯",
-    "description": "fortress, building, castle, Japanese castle, temple",
+    "description": "building, Japanese castle, temple, castle, fortress",
     "name": "japanese_castle"
   },
   {
@@ -1266,8 +1266,8 @@
   },
   {
     "emoji": "🏴",
-    "description": "flag, black, black flag",
-    "name": "black_flag"
+    "description": "black flag, flag, black",
+    "name": "flag_black"
   },
   {
     "emoji": "🏸",
@@ -1291,18 +1291,18 @@
   },
   {
     "emoji": "🐁",
-    "description": "mouse, animal",
+    "description": "animal, mouse",
     "name": "mouse2"
   },
   {
     "emoji": "🐂",
-    "description": "ox, animal",
+    "description": "animal, ox",
     "name": "ox"
   },
   {
     "emoji": "🐃",
     "description": ", water buffalo",
-    "name": "water_buffalo, animal"
+    "name": "water_buffalo"
   },
   {
     "emoji": "🐄",
@@ -1311,12 +1311,12 @@
   },
   {
     "emoji": "🐅",
-    "description": "tiger, animal",
+    "description": "animal, tiger",
     "name": "tiger2"
   },
   {
     "emoji": "🐆",
-    "description": "leopard, animal",
+    "description": "animal, leopard",
     "name": "leopard"
   },
   {
@@ -1336,27 +1336,27 @@
   },
   {
     "emoji": "🐊",
-    "description": "green, alagator, animal, crocodile",
+    "description": "alagator, animal, crocodile, green",
     "name": "crocodile"
   },
   {
     "emoji": "🐋",
-    "description": "whale, animal, blue",
+    "description": "animal, whale, blue",
     "name": "whale2"
   },
   {
     "emoji": "🐌",
-    "description": "snail, animal",
+    "description": "animal, snail",
     "name": "snail"
   },
   {
     "emoji": "🐍",
-    "description": "snake, animal",
+    "description": "animal, snake",
     "name": "snake"
   },
   {
     "emoji": "🐎",
-    "description": "horse, animal",
+    "description": "animal, horse",
     "name": "racehorse"
   },
   {
@@ -1391,7 +1391,7 @@
   },
   {
     "emoji": "🐕",
-    "description": "dog, animal",
+    "description": "animal, dog",
     "name": "dog2"
   },
   {
@@ -1411,12 +1411,12 @@
   },
   {
     "emoji": "🐙",
-    "description": "octopus, animal",
+    "description": "animal, octopus",
     "name": "octopus"
   },
   {
     "emoji": "🐚",
-    "description": "beach, sea, seashell, ocean, spiral shell",
+    "description": "spiral shell, seashell, sea, beach, ocean",
     "name": "shell"
   },
   {
@@ -1426,17 +1426,17 @@
   },
   {
     "emoji": "🐜",
-    "description": "animal, ant, insect, bug",
+    "description": "animal, insect, ant, bug",
     "name": "ant"
   },
   {
     "emoji": "🐝",
-    "description": "animal, honeybee, insect, bug",
+    "description": "animal, insect, bug, honeybee",
     "name": "bee"
   },
   {
     "emoji": "🐞",
-    "description": "lady beetle, animal, insect, bug",
+    "description": "animal, insect, bug, lady beetle",
     "name": "beetle"
   },
   {
@@ -1456,12 +1456,12 @@
   },
   {
     "emoji": "🐢",
-    "description": "green, turtle, animal",
+    "description": "animal, turtle, green",
     "name": "turtle"
   },
   {
     "emoji": "🐣",
-    "description": "animal, hatching chick",
+    "description": "hatching chick, animal",
     "name": "hatching_chick"
   },
   {
@@ -1471,7 +1471,7 @@
   },
   {
     "emoji": "🐥",
-    "description": "front-facing baby chick, animal",
+    "description": "animal, front-facing baby chick",
     "name": "hatched_chick"
   },
   {
@@ -1481,7 +1481,7 @@
   },
   {
     "emoji": "🐧",
-    "description": "animal, penguin, linux",
+    "description": "linux, animal, penguin",
     "name": "penguin"
   },
   {
@@ -1491,7 +1491,7 @@
   },
   {
     "emoji": "🐩",
-    "description": "poodle, animal",
+    "description": "animal, poodle",
     "name": "poodle"
   },
   {
@@ -1501,7 +1501,7 @@
   },
   {
     "emoji": "🐫",
-    "description": "two-hump camel, animal",
+    "description": "animal, two-hump camel",
     "name": "camel"
   },
   {
@@ -1511,57 +1511,57 @@
   },
   {
     "emoji": "🐭",
-    "description": "face, animal, mouse face",
+    "description": "animal, mouse face, face",
     "name": "mouse"
   },
   {
     "emoji": "🐮",
-    "description": "face, animal, cow face",
+    "description": "animal, face, cow face",
     "name": "cow"
   },
   {
     "emoji": "🐯",
-    "description": "face, animal, tiger face",
+    "description": "tiger face, animal, face",
     "name": "tiger"
   },
   {
     "emoji": "🐰",
-    "description": "cute, animal, rabbit face",
+    "description": "animal, cute, rabbit face",
     "name": "rabbit"
   },
   {
     "emoji": "🐱",
-    "description": "face, animal, cute, cat face",
+    "description": "animal, cat face, face, cute",
     "name": "cat"
   },
   {
     "emoji": "🐲",
-    "description": "dragon face, animal",
+    "description": "animal, dragon face",
     "name": "dragon_face"
   },
   {
     "emoji": "🐳",
-    "description": "spouting whale, animal",
+    "description": "animal, spouting whale",
     "name": "whale"
   },
   {
     "emoji": "🐴",
-    "description": "face, horse face, animal",
+    "description": "animal, face, horse face",
     "name": "horse"
   },
   {
     "emoji": "🐵",
-    "description": "face, monkey face, animal",
+    "description": "monkey face, animal, face",
     "name": "monkey_face"
   },
   {
     "emoji": "🐶",
-    "description": "face, animal, dog face",
+    "description": "animal, face, dog face",
     "name": "dog"
   },
   {
     "emoji": "🐷",
-    "description": "face, pig face, animal",
+    "description": "animal, face, pig face",
     "name": "pig"
   },
   {
@@ -1571,22 +1571,22 @@
   },
   {
     "emoji": "🐹",
-    "description": "face, animal, hamster",
+    "description": "animal, face, hamster",
     "name": "hamster"
   },
   {
     "emoji": "🐺",
-    "description": "face, animal, wolf",
+    "description": "animal, face, wolf",
     "name": "wolf"
   },
   {
     "emoji": "🐻",
-    "description": "face, animal, bear",
+    "description": "animal, face, bear",
     "name": "bear"
   },
   {
     "emoji": "🐼",
-    "description": "panda, animal",
+    "description": "animal, panda",
     "name": "panda_face"
   },
   {
@@ -1596,7 +1596,7 @@
   },
   {
     "emoji": "🐾",
-    "description": "paw prints, tracks, animal",
+    "description": "animal, tracks, paw prints",
     "name": "feet"
   },
   {
@@ -1606,12 +1606,12 @@
   },
   {
     "emoji": "👂",
-    "description": "ear, listen, sound",
+    "description": "listen, sound, ear",
     "name": "ear"
   },
   {
     "emoji": "👃",
-    "description": "smell, nose",
+    "description": "nose, smell",
     "name": "nose"
   },
   {
@@ -1621,7 +1621,7 @@
   },
   {
     "emoji": "👅",
-    "description": "silly, tongue, mouth",
+    "description": "tongue, silly, mouth",
     "name": "tongue"
   },
   {
@@ -1647,7 +1647,7 @@
   {
     "emoji": "👊",
     "description": ", oncoming fist",
-    "name": "fist_oncoming"
+    "name": "punch"
   },
   {
     "emoji": "👋",
@@ -1662,12 +1662,12 @@
   {
     "emoji": "👍",
     "description": ", thumbs up",
-    "name": "+1"
+    "name": "thumbsup"
   },
   {
     "emoji": "👎",
     "description": ", thumbs down",
-    "name": "-1"
+    "name": "thumbsdown"
   },
   {
     "emoji": "👏",
@@ -1807,7 +1807,7 @@
   {
     "emoji": "👪",
     "description": ", family",
-    "name": "family_man_woman_boy"
+    "name": "family"
   },
   {
     "emoji": "👫",
@@ -1827,12 +1827,12 @@
   {
     "emoji": "👮",
     "description": ", police officer",
-    "name": "policeman"
+    "name": "police_officer"
   },
   {
     "emoji": "👯",
     "description": ", people with bunny ears",
-    "name": "dancing_women"
+    "name": "people_with_bunny_ears_partying"
   },
   {
     "emoji": "👰",
@@ -1842,17 +1842,17 @@
   {
     "emoji": "👱",
     "description": ", person: blond hair",
-    "name": "blonde_man"
+    "name": "blond_haired_person"
   },
   {
     "emoji": "👲",
     "description": ", man with skullcap",
-    "name": "man_with_gua_pi_mao"
+    "name": "man_with_chinese_cap"
   },
   {
     "emoji": "👳",
     "description": ", person wearing turban",
-    "name": "man_with_turban"
+    "name": "person_wearing_turban"
   },
   {
     "emoji": "👴",
@@ -1872,7 +1872,7 @@
   {
     "emoji": "👷",
     "description": ", construction worker",
-    "name": "construction_worker_man"
+    "name": "construction_worker"
   },
   {
     "emoji": "👸",
@@ -1891,7 +1891,7 @@
   },
   {
     "emoji": "👻",
-    "description": "halloween, ghost",
+    "description": "ghost, halloween",
     "name": "ghost"
   },
   {
@@ -1916,18 +1916,18 @@
   },
   {
     "emoji": "💀",
-    "description": "horror, bones, skull, spooky",
+    "description": "spooky, skull, horror, bones",
     "name": "skull"
   },
   {
     "emoji": "💁",
     "description": "person tipping hand, questions",
-    "name": "tipping_hand_woman"
+    "name": "person_tipping_hand"
   },
   {
     "emoji": "💂",
     "description": ", guard",
-    "name": "guardsman"
+    "name": "guard"
   },
   {
     "emoji": "💃",
@@ -1936,23 +1936,23 @@
   },
   {
     "emoji": "💄",
-    "description": "lipstick, makeup",
+    "description": "makeup, lipstick",
     "name": "lipstick"
   },
   {
     "emoji": "💅",
-    "description": "nail polish, beauty, makeup",
+    "description": "beauty, nail polish, makeup",
     "name": "nail_care"
   },
   {
     "emoji": "💆",
     "description": ", person getting massage",
-    "name": "massage_woman"
+    "name": "person_getting_massage"
   },
   {
     "emoji": "💇",
     "description": ", person getting haircut",
-    "name": "haircut_woman"
+    "name": "person_getting_haircut"
   },
   {
     "emoji": "💈",
@@ -1992,7 +1992,7 @@
   {
     "emoji": "💏",
     "description": ", kiss",
-    "name": "couplekiss_man_woman"
+    "name": "couplekiss"
   },
   {
     "emoji": "💐",
@@ -2002,7 +2002,7 @@
   {
     "emoji": "💑",
     "description": ", couple with heart",
-    "name": "couple_with_heart_woman_man"
+    "name": "couple_with_heart"
   },
   {
     "emoji": "💒",
@@ -2122,7 +2122,7 @@
   {
     "emoji": "💩",
     "description": ", pile of poo",
-    "name": "hankey"
+    "name": "poop"
   },
   {
     "emoji": "💪",
@@ -2381,12 +2381,12 @@
   },
   {
     "emoji": "📝",
-    "description": "study, pencil, school, memo, note",
-    "name": "memo"
+    "description": "pencil, memo, note, school, study",
+    "name": "pencil"
   },
   {
     "emoji": "📞",
-    "description": "telephone receiver, phone, call",
+    "description": "call, telephone receiver, phone",
     "name": "telephone_receiver"
   },
   {
@@ -2446,7 +2446,7 @@
   },
   {
     "emoji": "📪",
-    "description": "mail, closed mailbox with lowered flag",
+    "description": "closed mailbox with lowered flag, mail",
     "name": "mailbox_closed"
   },
   {
@@ -2456,7 +2456,7 @@
   },
   {
     "emoji": "📬",
-    "description": "open mailbox with raised flag, mail",
+    "description": "mail, open mailbox with raised flag",
     "name": "mailbox_with_mail"
   },
   {
@@ -2511,13 +2511,13 @@
   },
   {
     "emoji": "📷",
-    "description": "photo, camera, photography",
+    "description": "photo, photography, camera",
     "name": "camera"
   },
   {
     "emoji": "📸",
     "description": "camera with flash, photo, photography",
-    "name": "camera_flash"
+    "name": "camera_with_flash"
   },
   {
     "emoji": "📹",
@@ -2611,12 +2611,12 @@
   },
   {
     "emoji": "🔍",
-    "description": "search, magnifying glass tilted left",
+    "description": "magnifying glass tilted left, search",
     "name": "mag"
   },
   {
     "emoji": "🔎",
-    "description": "magnifying glass tilted right, search",
+    "description": "search, magnifying glass tilted right",
     "name": "mag_right"
   },
   {
@@ -2757,7 +2757,7 @@
   {
     "emoji": "🔪",
     "description": ", kitchen knife",
-    "name": "hocho"
+    "name": "knife"
   },
   {
     "emoji": "🔫",
@@ -2812,7 +2812,7 @@
   {
     "emoji": "🔵",
     "description": ", blue circle",
-    "name": "large_blue_circle"
+    "name": "blue_circle"
   },
   {
     "emoji": "🔶",
@@ -3002,7 +3002,7 @@
   {
     "emoji": "🖖",
     "description": ", vulcan salute",
-    "name": "vulcan_salute"
+    "name": "vulcan"
   },
   {
     "emoji": "🗻",
@@ -3321,7 +3321,7 @@
   },
   {
     "emoji": "😺",
-    "description": "kitty, grinning cat",
+    "description": "grinning cat, kitty",
     "name": "smiley_cat"
   },
   {
@@ -3357,37 +3357,37 @@
   {
     "emoji": "🙁",
     "description": ", slightly frowning face",
-    "name": "slightly_frowning_face"
+    "name": "slight_frown"
   },
   {
     "emoji": "🙂",
     "description": ", slightly smiling face",
-    "name": "slightly_smiling_face"
+    "name": "slight_smile"
   },
   {
     "emoji": "🙃",
     "description": ", upside-down face",
-    "name": "upside_down_face"
+    "name": "upside_down"
   },
   {
     "emoji": "🙄",
     "description": ", face with rolling eyes",
-    "name": "roll_eyes"
+    "name": "rolling_eyes"
   },
   {
     "emoji": "🙅",
     "description": ", person gesturing NO",
-    "name": "no_good_woman"
+    "name": "person_gesturing_no"
   },
   {
     "emoji": "🙆",
     "description": ", person gesturing OK",
-    "name": "ok_woman"
+    "name": "person_gesturing_ok"
   },
   {
     "emoji": "🙇",
     "description": ", person bowing",
-    "name": "bowing_man"
+    "name": "person_bowing"
   },
   {
     "emoji": "🙈",
@@ -3407,7 +3407,7 @@
   {
     "emoji": "🙋",
     "description": ", person raising hand",
-    "name": "raising_hand_woman"
+    "name": "person_raising_hand"
   },
   {
     "emoji": "🙌",
@@ -3417,12 +3417,12 @@
   {
     "emoji": "🙍",
     "description": ", person frowning",
-    "name": "frowning_woman"
+    "name": "person_frowning"
   },
   {
     "emoji": "🙎",
     "description": ", person pouting",
-    "name": "pouting_woman"
+    "name": "person_pouting"
   },
   {
     "emoji": "🙏",
@@ -3547,7 +3547,7 @@
   {
     "emoji": "🚗",
     "description": ", automobile",
-    "name": "car"
+    "name": "red_car"
   },
   {
     "emoji": "🚘",
@@ -3607,7 +3607,7 @@
   {
     "emoji": "🚣",
     "description": ", person rowing boat",
-    "name": "rowing_man"
+    "name": "person_rowing_boat"
   },
   {
     "emoji": "🚤",
@@ -3692,17 +3692,17 @@
   {
     "emoji": "🚴",
     "description": ", person biking",
-    "name": "biking_man"
+    "name": "person_biking"
   },
   {
     "emoji": "🚵",
     "description": ", person mountain biking",
-    "name": "mountain_biking_man"
+    "name": "person_mountain_biking"
   },
   {
     "emoji": "🚶",
     "description": ", person walking",
-    "name": "walking_man"
+    "name": "person_walking"
   },
   {
     "emoji": "🚷",
@@ -3782,7 +3782,7 @@
   {
     "emoji": "🛌",
     "description": ", person in bed",
-    "name": "sleeping_bed"
+    "name": "sleeping_accommodation"
   },
   {
     "emoji": "🛐",
@@ -3792,32 +3792,32 @@
   {
     "emoji": "🛫",
     "description": ", airplane departure",
-    "name": "flight_departure"
+    "name": "airplane_departure"
   },
   {
     "emoji": "🛬",
     "description": ", airplane arrival",
-    "name": "flight_arrival"
+    "name": "airplane_arriving"
   },
   {
     "emoji": "🤐",
     "description": ", zipper-mouth face",
-    "name": "zipper_mouth_face"
+    "name": "zipper_mouth"
   },
   {
     "emoji": "🤑",
     "description": ", money-mouth face",
-    "name": "money_mouth_face"
+    "name": "money_mouth"
   },
   {
     "emoji": "🤒",
     "description": ", face with thermometer",
-    "name": "face_with_thermometer"
+    "name": "thermometer_face"
   },
   {
     "emoji": "🤓",
     "description": ", nerd face",
-    "name": "nerd_face"
+    "name": "nerd"
   },
   {
     "emoji": "🤔",
@@ -3827,32 +3827,32 @@
   {
     "emoji": "🤕",
     "description": ", face with head-bandage",
-    "name": "face_with_head_bandage"
+    "name": "head_bandage"
   },
   {
     "emoji": "🤖",
-    "description": "tech, electronics, robot, technology, AI, artificial intelligence",
+    "description": "robot, electronics, AI, artificial intelligence, tech, technology",
     "name": "robot"
   },
   {
     "emoji": "🤗",
     "description": "hugging face, AI, artificial intelligence",
-    "name": "hugs"
+    "name": "hugging"
   },
   {
     "emoji": "🤘",
-    "description": "rock, sign of the horns, hand",
+    "description": "hand, rock, sign of the horns",
     "name": "metal"
   },
   {
     "emoji": "🦀",
-    "description": "crab, sea, seafood, sea creature, animal",
+    "description": "sea creature, crab, animal, sea, seafood",
     "name": "crab"
   },
   {
     "emoji": "🦁",
-    "description": "lion, animal",
-    "name": "lion"
+    "description": "animal, lion",
+    "name": "lion_face"
   },
   {
     "emoji": "🦂",
@@ -3861,1312 +3861,1312 @@
   },
   {
     "emoji": "🦃",
-    "description": "thanksgiving, turkey, bird,",
+    "description": "turkey, bird,, thanksgiving",
     "name": "turkey"
   },
   {
     "emoji": "🦄",
-    "description": "magic, unicorn, fantasy, rainbow",
+    "description": "magic, fantasy, rainbow, unicorn",
     "name": "unicorn"
   },
   {
     "emoji": "🧀",
-    "description": "mouse, food, cheese wedge",
+    "description": "food, mouse, cheese wedge",
     "name": "cheese"
   },
   {
     "emoji": "🇦🇨",
-    "description": "flag, flags, flag: Ascension Island",
+    "description": "flags, flag: Ascension Island, flag",
     "name": "flag_ac"
   },
   {
     "emoji": "🇦🇩",
-    "description": "flag, flag: Andorra, flags",
-    "name": "andorra"
+    "description": "flag: Andorra, flags, flag",
+    "name": "flag_ad"
   },
   {
     "emoji": "🇦🇪",
-    "description": "flag, flags, flag: United Arab Emirates",
-    "name": "united_arab_emirates"
+    "description": "flags, flag: United Arab Emirates, flag",
+    "name": "flag_ae"
   },
   {
     "emoji": "🇦🇫",
-    "description": "flag, flags, flag: Afghanistan",
-    "name": "afghanistan"
+    "description": "flags, flag, flag: Afghanistan",
+    "name": "flag_af"
   },
   {
     "emoji": "🇦🇬",
-    "description": "flag, flags, flag: Antigua & Barbuda",
-    "name": "antigua_barbuda"
+    "description": "flag: Antigua & Barbuda, flags, flag",
+    "name": "flag_ag"
   },
   {
     "emoji": "🇦🇮",
-    "description": "flag, flags, flag: Anguilla",
-    "name": "anguilla"
+    "description": "flags, flag, flag: Anguilla",
+    "name": "flag_ai"
   },
   {
     "emoji": "🇦🇱",
-    "description": "flag, flags, flag: Albania",
-    "name": "albania"
+    "description": "flag: Albania, flags, flag",
+    "name": "flag_al"
   },
   {
     "emoji": "🇦🇲",
-    "description": "flag: Armenia, flag, flags",
-    "name": "armenia"
+    "description": "flags, flag: Armenia, flag",
+    "name": "flag_am"
   },
   {
     "emoji": "🇦🇴",
-    "description": "flag: Angola, flag, flags",
-    "name": "angola"
+    "description": "flags, flag, flag: Angola",
+    "name": "flag_ao"
   },
   {
     "emoji": "🇦🇶",
-    "description": "flag, flags, flag: Antarctica",
-    "name": "antarctica"
+    "description": "flag: Antarctica, flags, flag",
+    "name": "flag_aq"
   },
   {
     "emoji": "🇦🇷",
-    "description": "flag, flags, flag: Argentina",
-    "name": "argentina"
+    "description": "flags, flag: Argentina, flag",
+    "name": "flag_ar"
   },
   {
     "emoji": "🇦🇸",
-    "description": "flag, flag: American Samoa, flags",
-    "name": "american_samoa"
+    "description": "flags, flag: American Samoa, flag",
+    "name": "flag_as"
   },
   {
     "emoji": "🇦🇹",
-    "description": "flag, flag: Austria, flags",
-    "name": "austria"
+    "description": "flags, flag, flag: Austria",
+    "name": "flag_at"
   },
   {
     "emoji": "🇦🇺",
-    "description": "flag, flags, flag: Australia",
-    "name": "australia"
+    "description": "flags, flag, flag: Australia",
+    "name": "flag_au"
   },
   {
     "emoji": "🇦🇼",
-    "description": "flag, flags, flag: Aruba",
-    "name": "aruba"
+    "description": "flag: Aruba, flags, flag",
+    "name": "flag_aw"
   },
   {
     "emoji": "🇦🇽",
-    "description": "flag, flags, flag: Åland Islands",
-    "name": "aland_islands"
+    "description": "flag: Åland Islands, flags, flag",
+    "name": "flag_ax"
   },
   {
     "emoji": "🇦🇿",
-    "description": "flag: Azerbaijan, flag, flags",
-    "name": "azerbaijan"
+    "description": "flags, flag, flag: Azerbaijan",
+    "name": "flag_az"
   },
   {
     "emoji": "🇧🇦",
-    "description": "flag: Bosnia & Herzegovina, flag, flags",
-    "name": "bosnia_herzegovina"
+    "description": "flag: Bosnia & Herzegovina, flags, flag",
+    "name": "flag_ba"
   },
   {
     "emoji": "🇧🇧",
-    "description": "flag: Barbados, flag, flags",
-    "name": "barbados"
+    "description": "flag: Barbados, flags, flag",
+    "name": "flag_bb"
   },
   {
     "emoji": "🇧🇩",
-    "description": "flag: Bangladesh, flag, flags",
-    "name": "bangladesh"
+    "description": "flags, flag, flag: Bangladesh",
+    "name": "flag_bd"
   },
   {
     "emoji": "🇧🇪",
-    "description": "flag: Belgium, flag, flags",
-    "name": "belgium"
+    "description": "flags, flag, flag: Belgium",
+    "name": "flag_be"
   },
   {
     "emoji": "🇧🇫",
-    "description": "flag, flags, flag: Burkina Faso",
-    "name": "burkina_faso"
+    "description": "flags, flag: Burkina Faso, flag",
+    "name": "flag_bf"
   },
   {
     "emoji": "🇧🇬",
-    "description": "flag, flags, flag: Bulgaria",
-    "name": "bulgaria"
+    "description": "flag: Bulgaria, flags, flag",
+    "name": "flag_bg"
   },
   {
     "emoji": "🇧🇭",
-    "description": "flag, flags, flag: Bahrain",
-    "name": "bahrain"
+    "description": "flags, flag: Bahrain, flag",
+    "name": "flag_bh"
   },
   {
     "emoji": "🇧🇮",
-    "description": "flag, flags, flag: Burundi",
-    "name": "burundi"
+    "description": "flag: Burundi, flags, flag",
+    "name": "flag_bi"
   },
   {
     "emoji": "🇧🇯",
-    "description": "flag: Benin, flag, flags",
-    "name": "benin"
+    "description": "flag: Benin, flags, flag",
+    "name": "flag_bj"
   },
   {
     "emoji": "🇧🇱",
-    "description": "flag, flags, flag: St. Barthélemy",
-    "name": "st_barthelemy"
+    "description": "flags, flag: St. Barthélemy, flag",
+    "name": "flag_bl"
   },
   {
     "emoji": "🇧🇲",
-    "description": "flag, flags, flag: Bermuda",
-    "name": "bermuda"
+    "description": "flags, flag: Bermuda, flag",
+    "name": "flag_bm"
   },
   {
     "emoji": "🇧🇳",
-    "description": "flag: Brunei, flag, flags",
-    "name": "brunei"
+    "description": "flags, flag: Brunei, flag",
+    "name": "flag_bn"
   },
   {
     "emoji": "🇧🇴",
-    "description": "flag, flags, flag: Bolivia",
-    "name": "bolivia"
+    "description": "flag: Bolivia, flags, flag",
+    "name": "flag_bo"
   },
   {
     "emoji": "🇧🇶",
-    "description": "flag: Caribbean Netherlands, flag, flags",
-    "name": "caribbean_netherlands"
+    "description": "flags, flag: Caribbean Netherlands, flag",
+    "name": "flag_bq"
   },
   {
     "emoji": "🇧🇷",
-    "description": "flag: Brazil, flag, flags",
-    "name": "brazil"
+    "description": "flag: Brazil, flags, flag",
+    "name": "flag_br"
   },
   {
     "emoji": "🇧🇸",
-    "description": "flag, flag: Bahamas, flags",
-    "name": "bahamas"
+    "description": "flag: Bahamas, flags, flag",
+    "name": "flag_bs"
   },
   {
     "emoji": "🇧🇹",
-    "description": "flag, flag: Bhutan, flags",
-    "name": "bhutan"
+    "description": "flags, flag: Bhutan, flag",
+    "name": "flag_bt"
   },
   {
     "emoji": "🇧🇻",
-    "description": "flag, flags, flag: Bouvet Island",
+    "description": "flag: Bouvet Island, flags, flag",
     "name": "flag_bv"
   },
   {
     "emoji": "🇧🇼",
-    "description": "flag, flags, flag: Botswana",
-    "name": "botswana"
+    "description": "flags, flag, flag: Botswana",
+    "name": "flag_bw"
   },
   {
     "emoji": "🇧🇾",
-    "description": "flag, flag: Belarus, flags",
-    "name": "belarus"
+    "description": "flags, flag, flag: Belarus",
+    "name": "flag_by"
   },
   {
     "emoji": "🇧🇿",
-    "description": "flag: Belize, flag, flags",
-    "name": "belize"
+    "description": "flag: Belize, flags, flag",
+    "name": "flag_bz"
   },
   {
     "emoji": "🇨🇦",
-    "description": "flag: Canada, flag, flags",
-    "name": "canada"
+    "description": "flag: Canada, flags, flag",
+    "name": "flag_ca"
   },
   {
     "emoji": "🇨🇨",
-    "description": "flag, flags, flag: Cocos (Keeling) Islands",
-    "name": "cocos_islands"
+    "description": "flags, flag: Cocos (Keeling) Islands, flag",
+    "name": "flag_cc"
   },
   {
     "emoji": "🇨🇩",
-    "description": "flag: Congo - Kinshasa, flag, flags",
-    "name": "congo_kinshasa"
+    "description": "flag: Congo - Kinshasa, flags, flag",
+    "name": "flag_cd"
   },
   {
     "emoji": "🇨🇫",
-    "description": "flag, flags, flag: Central African Republic",
-    "name": "central_african_republic"
+    "description": "flag: Central African Republic, flags, flag",
+    "name": "flag_cf"
   },
   {
     "emoji": "🇨🇬",
-    "description": "flag, flag: Congo - Brazzaville, flags",
-    "name": "congo_brazzaville"
+    "description": "flags, flag: Congo - Brazzaville, flag",
+    "name": "flag_cg"
   },
   {
     "emoji": "🇨🇭",
-    "description": "flag, flags, flag: Switzerland",
-    "name": "switzerland"
+    "description": "flags, flag: Switzerland, flag",
+    "name": "flag_ch"
   },
   {
     "emoji": "🇨🇮",
-    "description": "flag, flags, flag: Côte d’Ivoire",
-    "name": "cote_divoire"
+    "description": "flags, flag: Côte d’Ivoire, flag",
+    "name": "flag_ci"
   },
   {
     "emoji": "🇨🇰",
-    "description": "flag, flags, flag: Cook Islands",
-    "name": "cook_islands"
+    "description": "flag: Cook Islands, flags, flag",
+    "name": "flag_ck"
   },
   {
     "emoji": "🇨🇱",
-    "description": "flag: Chile, flag, flags",
-    "name": "chile"
+    "description": "flag: Chile, flags, flag",
+    "name": "flag_cl"
   },
   {
     "emoji": "🇨🇲",
-    "description": "flag, flag: Cameroon, flags",
-    "name": "cameroon"
+    "description": "flag: Cameroon, flags, flag",
+    "name": "flag_cm"
   },
   {
     "emoji": "🇨🇳",
-    "description": "flag, flag: China, flags",
-    "name": "cn"
+    "description": "flags, flag, flag: China",
+    "name": "flag_cn"
   },
   {
     "emoji": "🇨🇴",
-    "description": "flag, flag: Colombia, flags",
-    "name": "colombia"
+    "description": "flags, flag: Colombia, flag",
+    "name": "flag_co"
   },
   {
     "emoji": "🇨🇵",
-    "description": "flag, flags, flag: Clipperton Island",
+    "description": "flags, flag, flag: Clipperton Island",
     "name": "flag_cp"
   },
   {
     "emoji": "🇨🇷",
-    "description": "flag, flags, flag: Costa Rica",
-    "name": "costa_rica"
+    "description": "flag: Costa Rica, flags, flag",
+    "name": "flag_cr"
   },
   {
     "emoji": "🇨🇺",
-    "description": "flag, flag: Cuba, flags",
-    "name": "cuba"
+    "description": "flag: Cuba, flags, flag",
+    "name": "flag_cu"
   },
   {
     "emoji": "🇨🇻",
-    "description": "flag, flag: Cape Verde, flags",
-    "name": "cape_verde"
+    "description": "flags, flag: Cape Verde, flag",
+    "name": "flag_cv"
   },
   {
     "emoji": "🇨🇼",
-    "description": "flag, flags, flag: Curaçao",
-    "name": "curacao"
+    "description": "flag: Curaçao, flags, flag",
+    "name": "flag_cw"
   },
   {
     "emoji": "🇨🇽",
-    "description": "flag, flags, flag: Christmas Island",
-    "name": "christmas_island"
+    "description": "flags, flag: Christmas Island, flag",
+    "name": "flag_cx"
   },
   {
     "emoji": "🇨🇾",
-    "description": "flag, flags, flag: Cyprus",
-    "name": "cyprus"
+    "description": "flags, flag: Cyprus, flag",
+    "name": "flag_cy"
   },
   {
     "emoji": "🇨🇿",
-    "description": "flag, flag: Czechia, flags",
-    "name": "czech_republic"
+    "description": "flags, flag, flag: Czechia",
+    "name": "flag_cz"
   },
   {
     "emoji": "🇩🇪",
-    "description": "flag, flags, flag: Germany",
-    "name": "de"
+    "description": "flags, flag, flag: Germany",
+    "name": "flag_de"
   },
   {
     "emoji": "🇩🇬",
-    "description": "flag, flag: Diego Garcia, flags",
+    "description": "flag: Diego Garcia, flags, flag",
     "name": "flag_dg"
   },
   {
     "emoji": "🇩🇯",
-    "description": "flag, flags, flag: Djibouti",
-    "name": "djibouti"
+    "description": "flag: Djibouti, flags, flag",
+    "name": "flag_dj"
   },
   {
     "emoji": "🇩🇰",
-    "description": "flag, flags, flag: Denmark",
-    "name": "denmark"
+    "description": "flags, flag, flag: Denmark",
+    "name": "flag_dk"
   },
   {
     "emoji": "🇩🇲",
-    "description": "flag, flags, flag: Dominica",
-    "name": "dominica"
+    "description": "flags, flag: Dominica, flag",
+    "name": "flag_dm"
   },
   {
     "emoji": "🇩🇴",
-    "description": "flag, flag: Dominican Republic, flags",
-    "name": "dominican_republic"
+    "description": "flags, flag: Dominican Republic, flag",
+    "name": "flag_do"
   },
   {
     "emoji": "🇩🇿",
-    "description": "flag, flags, flag: Algeria",
-    "name": "algeria"
+    "description": "flag: Algeria, flags, flag",
+    "name": "flag_dz"
   },
   {
     "emoji": "🇪🇦",
-    "description": "flag, flag: Ceuta & Melilla, flags",
+    "description": "flags, flag: Ceuta & Melilla, flag",
     "name": "flag_ea"
   },
   {
     "emoji": "🇪🇨",
-    "description": "flag, flag: Ecuador, flags",
-    "name": "ecuador"
+    "description": "flag: Ecuador, flags, flag",
+    "name": "flag_ec"
   },
   {
     "emoji": "🇪🇪",
-    "description": "flag, flags, flag: Estonia",
-    "name": "estonia"
+    "description": "flags, flag, flag: Estonia",
+    "name": "flag_ee"
   },
   {
     "emoji": "🇪🇬",
-    "description": "flag, flags, flag: Egypt",
-    "name": "egypt"
+    "description": "flag: Egypt, flags, flag",
+    "name": "flag_eg"
   },
   {
     "emoji": "🇪🇭",
-    "description": "flag, flags, flag: Western Sahara",
-    "name": "western_sahara"
+    "description": "flags, flag: Western Sahara, flag",
+    "name": "flag_eh"
   },
   {
     "emoji": "🇪🇷",
-    "description": "flag, flag: Eritrea, flags",
-    "name": "eritrea"
+    "description": "flags, flag, flag: Eritrea",
+    "name": "flag_er"
   },
   {
     "emoji": "🇪🇸",
-    "description": "flag, flag: Spain, flags",
-    "name": "es"
+    "description": "flags, flag: Spain, flag",
+    "name": "flag_es"
   },
   {
     "emoji": "🇪🇹",
-    "description": "flag, flags, flag: Ethiopia",
-    "name": "ethiopia"
+    "description": "flags, flag: Ethiopia, flag",
+    "name": "flag_et"
   },
   {
     "emoji": "🇪🇺",
-    "description": "flag, flags, flag: European Union",
-    "name": "eu"
+    "description": "flags, flag: European Union, flag",
+    "name": "flag_eu"
   },
   {
     "emoji": "🇫🇮",
-    "description": "flag, flag: Finland, flags",
-    "name": "finland"
+    "description": "flag: Finland, flags, flag",
+    "name": "flag_fi"
   },
   {
     "emoji": "🇫🇯",
-    "description": "flag, flags, flag: Fiji",
-    "name": "fiji"
+    "description": "flags, flag, flag: Fiji",
+    "name": "flag_fj"
   },
   {
     "emoji": "🇫🇰",
-    "description": "flag, flags, flag: Falkland Islands",
-    "name": "falkland_islands"
+    "description": "flags, flag: Falkland Islands, flag",
+    "name": "flag_fk"
   },
   {
     "emoji": "🇫🇲",
-    "description": "flag, flags, flag: Micronesia",
-    "name": "micronesia"
+    "description": "flags, flag: Micronesia, flag",
+    "name": "flag_fm"
   },
   {
     "emoji": "🇫🇴",
-    "description": "flag, flag: Faroe Islands, flags",
-    "name": "faroe_islands"
+    "description": "flags, flag: Faroe Islands, flag",
+    "name": "flag_fo"
   },
   {
     "emoji": "🇫🇷",
-    "description": "flag, flag: France, flags",
-    "name": "fr"
+    "description": "flag: France, flags, flag",
+    "name": "flag_fr"
   },
   {
     "emoji": "🇬🇦",
-    "description": "flag, flag: Gabon, flags",
-    "name": "gabon"
+    "description": "flags, flag: Gabon, flag",
+    "name": "flag_ga"
   },
   {
     "emoji": "🇬🇧",
-    "description": "flag: United Kingdom, flag, flags",
-    "name": "gb"
+    "description": "flag: United Kingdom, flags, flag",
+    "name": "flag_gb"
   },
   {
     "emoji": "🇬🇩",
-    "description": "flag, flag: Grenada, flags",
-    "name": "grenada"
+    "description": "flag: Grenada, flags, flag",
+    "name": "flag_gd"
   },
   {
     "emoji": "🇬🇪",
-    "description": "flag, flags, flag: Georgia",
-    "name": "georgia"
+    "description": "flags, flag, flag: Georgia",
+    "name": "flag_ge"
   },
   {
     "emoji": "🇬🇫",
-    "description": "flag, flags, flag: French Guiana",
-    "name": "french_guiana"
+    "description": "flags, flag, flag: French Guiana",
+    "name": "flag_gf"
   },
   {
     "emoji": "🇬🇬",
-    "description": "flag, flag: Guernsey, flags",
-    "name": "guernsey"
+    "description": "flag: Guernsey, flags, flag",
+    "name": "flag_gg"
   },
   {
     "emoji": "🇬🇭",
-    "description": "flag, flags, flag: Ghana",
-    "name": "ghana"
+    "description": "flag: Ghana, flags, flag",
+    "name": "flag_gh"
   },
   {
     "emoji": "🇬🇮",
-    "description": "flag, flags, flag: Gibraltar",
-    "name": "gibraltar"
+    "description": "flags, flag, flag: Gibraltar",
+    "name": "flag_gi"
   },
   {
     "emoji": "🇬🇱",
-    "description": "flag, flag: Greenland, flags",
-    "name": "greenland"
+    "description": "flags, flag: Greenland, flag",
+    "name": "flag_gl"
   },
   {
     "emoji": "🇬🇲",
-    "description": "flag: Gambia, flag, flags",
-    "name": "gambia"
+    "description": "flag: Gambia, flags, flag",
+    "name": "flag_gm"
   },
   {
     "emoji": "🇬🇳",
-    "description": "flag, flags, flag: Guinea",
-    "name": "guinea"
+    "description": "flags, flag: Guinea, flag",
+    "name": "flag_gn"
   },
   {
     "emoji": "🇬🇵",
-    "description": "flag, flag: Guadeloupe, flags",
-    "name": "guadeloupe"
+    "description": "flags, flag: Guadeloupe, flag",
+    "name": "flag_gp"
   },
   {
     "emoji": "🇬🇶",
-    "description": "flag, flags, flag: Equatorial Guinea",
-    "name": "equatorial_guinea"
+    "description": "flags, flag, flag: Equatorial Guinea",
+    "name": "flag_gq"
   },
   {
     "emoji": "🇬🇷",
-    "description": "flag, flags, flag: Greece",
-    "name": "greece"
+    "description": "flag: Greece, flags, flag",
+    "name": "flag_gr"
   },
   {
     "emoji": "🇬🇸",
-    "description": "flag, flags, flag: South Georgia & South Sandwich Islands",
-    "name": "south_georgia_south_sandwich_islands"
+    "description": "flag: South Georgia & South Sandwich Islands, flags, flag",
+    "name": "flag_gs"
   },
   {
     "emoji": "🇬🇹",
-    "description": "flag, flags, flag: Guatemala",
-    "name": "guatemala"
+    "description": "flags, flag: Guatemala, flag",
+    "name": "flag_gt"
   },
   {
     "emoji": "🇬🇺",
-    "description": "flag, flags, flag: Guam",
-    "name": "guam"
+    "description": "flag: Guam, flags, flag",
+    "name": "flag_gu"
   },
   {
     "emoji": "🇬🇼",
-    "description": "flag, flags, flag: Guinea-Bissau",
-    "name": "guinea_bissau"
+    "description": "flag: Guinea-Bissau, flags, flag",
+    "name": "flag_gw"
   },
   {
     "emoji": "🇬🇾",
-    "description": "flag, flags, flag: Guyana",
-    "name": "guyana"
+    "description": "flag: Guyana, flags, flag",
+    "name": "flag_gy"
   },
   {
     "emoji": "🇭🇰",
-    "description": "flag, flags, flag: Hong Kong SAR China",
-    "name": "hong_kong"
+    "description": "flag: Hong Kong SAR China, flags, flag",
+    "name": "flag_hk"
   },
   {
     "emoji": "🇭🇲",
-    "description": "flag, flags, flag: Heard & McDonald Islands",
+    "description": "flags, flag, flag: Heard & McDonald Islands",
     "name": "flag_hm"
   },
   {
     "emoji": "🇭🇳",
-    "description": "flag, flags, flag: Honduras",
-    "name": "honduras"
+    "description": "flags, flag, flag: Honduras",
+    "name": "flag_hn"
   },
   {
     "emoji": "🇭🇷",
-    "description": "flag, flags, flag: Croatia",
-    "name": "croatia"
+    "description": "flags, flag: Croatia, flag",
+    "name": "flag_hr"
   },
   {
     "emoji": "🇭🇹",
-    "description": "flag, flags, flag: Haiti",
-    "name": "haiti"
+    "description": "flags, flag: Haiti, flag",
+    "name": "flag_ht"
   },
   {
     "emoji": "🇭🇺",
-    "description": "flag, flags, flag: Hungary",
-    "name": "hungary"
+    "description": "flags, flag: Hungary, flag",
+    "name": "flag_hu"
   },
   {
     "emoji": "🇮🇨",
-    "description": "flag, flag: Canary Islands, flags",
-    "name": "canary_islands"
+    "description": "flags, flag, flag: Canary Islands",
+    "name": "flag_ic"
   },
   {
     "emoji": "🇮🇩",
-    "description": "flag, flags, flag: Indonesia",
-    "name": "indonesia"
+    "description": "flags, flag: Indonesia, flag",
+    "name": "flag_id"
   },
   {
     "emoji": "🇮🇪",
-    "description": "flag, flags, flag: Ireland",
-    "name": "ireland"
+    "description": "flags, flag: Ireland, flag",
+    "name": "flag_ie"
   },
   {
     "emoji": "🇮🇱",
-    "description": "flag, flags, flag: Israel",
-    "name": "israel"
+    "description": "flags, flag: Israel, flag",
+    "name": "flag_il"
   },
   {
     "emoji": "🇮🇲",
-    "description": "flag: Isle of Man, flag, flags",
-    "name": "isle_of_man"
+    "description": "flag: Isle of Man, flags, flag",
+    "name": "flag_im"
   },
   {
     "emoji": "🇮🇳",
-    "description": "flag, flag: India, flags",
-    "name": "india"
+    "description": "flags, flag, flag: India",
+    "name": "flag_in"
   },
   {
     "emoji": "🇮🇴",
-    "description": "flag, flags, flag: British Indian Ocean Territory",
-    "name": "british_indian_ocean_territory"
+    "description": "flags, flag: British Indian Ocean Territory, flag",
+    "name": "flag_io"
   },
   {
     "emoji": "🇮🇶",
-    "description": "flag, flags, flag: Iraq",
-    "name": "iraq"
+    "description": "flag: Iraq, flags, flag",
+    "name": "flag_iq"
   },
   {
     "emoji": "🇮🇷",
-    "description": "flag: Iran, flag, flags",
-    "name": "iran"
+    "description": "flags, flag, flag: Iran",
+    "name": "flag_ir"
   },
   {
     "emoji": "🇮🇸",
-    "description": "flag, flags, flag: Iceland",
-    "name": "iceland"
+    "description": "flags, flag: Iceland, flag",
+    "name": "flag_is"
   },
   {
     "emoji": "🇮🇹",
-    "description": "flag, flags, flag: Italy",
-    "name": "it"
+    "description": "flags, flag: Italy, flag",
+    "name": "flag_it"
   },
   {
     "emoji": "🇯🇪",
-    "description": "flag, flag: Jersey, flags",
-    "name": "jersey"
+    "description": "flags, flag, flag: Jersey",
+    "name": "flag_je"
   },
   {
     "emoji": "🇯🇲",
-    "description": "flag, flags, flag: Jamaica",
-    "name": "jamaica"
+    "description": "flags, flag, flag: Jamaica",
+    "name": "flag_jm"
   },
   {
     "emoji": "🇯🇴",
-    "description": "flag, flag: Jordan, flags",
-    "name": "jordan"
+    "description": "flag: Jordan, flags, flag",
+    "name": "flag_jo"
   },
   {
     "emoji": "🇯🇵",
-    "description": "flag, flags, flag: Japan",
-    "name": "jp"
+    "description": "flags, flag: Japan, flag",
+    "name": "flag_jp"
   },
   {
     "emoji": "🇰🇪",
-    "description": "flag, flags, flag: Kenya",
-    "name": "kenya"
+    "description": "flag: Kenya, flags, flag",
+    "name": "flag_ke"
   },
   {
     "emoji": "🇰🇬",
-    "description": "flag, flag: Kyrgyzstan, flags",
-    "name": "kyrgyzstan"
+    "description": "flag: Kyrgyzstan, flags, flag",
+    "name": "flag_kg"
   },
   {
     "emoji": "🇰🇭",
-    "description": "flag, flag: Cambodia, flags",
-    "name": "cambodia"
+    "description": "flag: Cambodia, flags, flag",
+    "name": "flag_kh"
   },
   {
     "emoji": "🇰🇮",
-    "description": "flag, flags, flag: Kiribati",
-    "name": "kiribati"
+    "description": "flag: Kiribati, flags, flag",
+    "name": "flag_ki"
   },
   {
     "emoji": "🇰🇲",
-    "description": "flag, flags, flag: Comoros",
-    "name": "comoros"
+    "description": "flags, flag, flag: Comoros",
+    "name": "flag_km"
   },
   {
     "emoji": "🇰🇳",
-    "description": "flag, flag: St. Kitts & Nevis, flags",
-    "name": "st_kitts_nevis"
+    "description": "flags, flag: St. Kitts & Nevis, flag",
+    "name": "flag_kn"
   },
   {
     "emoji": "🇰🇵",
-    "description": "flag, flags, flag: North Korea",
-    "name": "north_korea"
+    "description": "flag: North Korea, flags, flag",
+    "name": "flag_kp"
   },
   {
     "emoji": "🇰🇷",
-    "description": "flag, flags, flag: South Korea",
-    "name": "kr"
+    "description": "flags, flag: South Korea, flag",
+    "name": "flag_kr"
   },
   {
     "emoji": "🇰🇼",
-    "description": "flag, flag: Kuwait, flags",
-    "name": "kuwait"
+    "description": "flags, flag, flag: Kuwait",
+    "name": "flag_kw"
   },
   {
     "emoji": "🇰🇾",
-    "description": "flag, flags, flag: Cayman Islands",
-    "name": "cayman_islands"
+    "description": "flags, flag: Cayman Islands, flag",
+    "name": "flag_ky"
   },
   {
     "emoji": "🇰🇿",
-    "description": "flag: Kazakhstan, flag, flags",
-    "name": "kazakhstan"
+    "description": "flags, flag: Kazakhstan, flag",
+    "name": "flag_kz"
   },
   {
     "emoji": "🇱🇦",
-    "description": "flag: Laos, flag, flags",
-    "name": "laos"
+    "description": "flags, flag, flag: Laos",
+    "name": "flag_la"
   },
   {
     "emoji": "🇱🇧",
-    "description": "flag, flag: Lebanon, flags",
-    "name": "lebanon"
+    "description": "flags, flag, flag: Lebanon",
+    "name": "flag_lb"
   },
   {
     "emoji": "🇱🇨",
-    "description": "flag, flags, flag: St. Lucia",
-    "name": "st_lucia"
+    "description": "flag: St. Lucia, flags, flag",
+    "name": "flag_lc"
   },
   {
     "emoji": "🇱🇮",
-    "description": "flag, flags, flag: Liechtenstein",
-    "name": "liechtenstein"
+    "description": "flags, flag, flag: Liechtenstein",
+    "name": "flag_li"
   },
   {
     "emoji": "🇱🇰",
-    "description": "flag, flag: Sri Lanka, flags",
-    "name": "sri_lanka"
+    "description": "flags, flag, flag: Sri Lanka",
+    "name": "flag_lk"
   },
   {
     "emoji": "🇱🇷",
-    "description": "flag, flag: Liberia, flags",
-    "name": "liberia"
+    "description": "flag: Liberia, flags, flag",
+    "name": "flag_lr"
   },
   {
     "emoji": "🇱🇸",
-    "description": "flag, flag: Lesotho, flags",
-    "name": "lesotho"
+    "description": "flag: Lesotho, flags, flag",
+    "name": "flag_ls"
   },
   {
     "emoji": "🇱🇹",
-    "description": "flag, flags, flag: Lithuania",
-    "name": "lithuania"
+    "description": "flags, flag: Lithuania, flag",
+    "name": "flag_lt"
   },
   {
     "emoji": "🇱🇺",
-    "description": "flag, flags, flag: Luxembourg",
-    "name": "luxembourg"
+    "description": "flags, flag, flag: Luxembourg",
+    "name": "flag_lu"
   },
   {
     "emoji": "🇱🇻",
-    "description": "flag, flag: Latvia, flags",
-    "name": "latvia"
+    "description": "flag: Latvia, flags, flag",
+    "name": "flag_lv"
   },
   {
     "emoji": "🇱🇾",
-    "description": "flag, flag: Libya, flags",
-    "name": "libya"
+    "description": "flags, flag: Libya, flag",
+    "name": "flag_ly"
   },
   {
     "emoji": "🇲🇦",
-    "description": "flag, flags, flag: Morocco",
-    "name": "morocco"
+    "description": "flags, flag, flag: Morocco",
+    "name": "flag_ma"
   },
   {
     "emoji": "🇲🇨",
-    "description": "flag: Monaco, flag, flags",
-    "name": "monaco"
+    "description": "flags, flag, flag: Monaco",
+    "name": "flag_mc"
   },
   {
     "emoji": "🇲🇩",
-    "description": "flag, flag: Moldova, flags",
-    "name": "moldova"
+    "description": "flag: Moldova, flags, flag",
+    "name": "flag_md"
   },
   {
     "emoji": "🇲🇪",
-    "description": "flag, flag: Montenegro, flags",
-    "name": "montenegro"
+    "description": "flag: Montenegro, flags, flag",
+    "name": "flag_me"
   },
   {
     "emoji": "🇲🇫",
-    "description": "flag: St. Martin, flag, flags",
+    "description": "flags, flag, flag: St. Martin",
     "name": "flag_mf"
   },
   {
     "emoji": "🇲🇬",
-    "description": "flag, flag: Madagascar, flags",
-    "name": "madagascar"
+    "description": "flags, flag, flag: Madagascar",
+    "name": "flag_mg"
   },
   {
     "emoji": "🇲🇭",
-    "description": "flag, flags, flag: Marshall Islands",
-    "name": "marshall_islands"
+    "description": "flags, flag: Marshall Islands, flag",
+    "name": "flag_mh"
   },
   {
     "emoji": "🇲🇰",
-    "description": "flag, flag: North Macedonia, flags",
-    "name": "macedonia"
+    "description": "flags, flag, flag: North Macedonia",
+    "name": "flag_mk"
   },
   {
     "emoji": "🇲🇱",
-    "description": "flag: Mali, flag, flags",
-    "name": "mali"
+    "description": "flag: Mali, flags, flag",
+    "name": "flag_ml"
   },
   {
     "emoji": "🇲🇲",
-    "description": "flag, flags, flag: Myanmar (Burma)",
-    "name": "myanmar"
+    "description": "flags, flag: Myanmar (Burma), flag",
+    "name": "flag_mm"
   },
   {
     "emoji": "🇲🇳",
-    "description": "flag, flag: Mongolia, flags",
-    "name": "mongolia"
+    "description": "flag: Mongolia, flags, flag",
+    "name": "flag_mn"
   },
   {
     "emoji": "🇲🇴",
-    "description": "flag, flags, flag: Macao SAR China",
-    "name": "macau"
+    "description": "flags, flag: Macao SAR China, flag",
+    "name": "flag_mo"
   },
   {
     "emoji": "🇲🇵",
-    "description": "flag, flags, flag: Northern Mariana Islands",
-    "name": "northern_mariana_islands"
+    "description": "flags, flag: Northern Mariana Islands, flag",
+    "name": "flag_mp"
   },
   {
     "emoji": "🇲🇶",
-    "description": "flag, flags, flag: Martinique",
-    "name": "martinique"
+    "description": "flags, flag: Martinique, flag",
+    "name": "flag_mq"
   },
   {
     "emoji": "🇲🇷",
-    "description": "flag, flags, flag: Mauritania",
-    "name": "mauritania"
+    "description": "flag: Mauritania, flags, flag",
+    "name": "flag_mr"
   },
   {
     "emoji": "🇲🇸",
-    "description": "flag, flags, flag: Montserrat",
-    "name": "montserrat"
+    "description": "flags, flag, flag: Montserrat",
+    "name": "flag_ms"
   },
   {
     "emoji": "🇲🇹",
-    "description": "flag, flags, flag: Malta",
-    "name": "malta"
+    "description": "flags, flag: Malta, flag",
+    "name": "flag_mt"
   },
   {
     "emoji": "🇲🇺",
-    "description": "flag, flags, flag: Mauritius",
-    "name": "mauritius"
+    "description": "flags, flag, flag: Mauritius",
+    "name": "flag_mu"
   },
   {
     "emoji": "🇲🇻",
-    "description": "flag, flags, flag: Maldives",
-    "name": "maldives"
+    "description": "flag: Maldives, flags, flag",
+    "name": "flag_mv"
   },
   {
     "emoji": "🇲🇼",
-    "description": "flag, flag: Malawi, flags",
-    "name": "malawi"
+    "description": "flags, flag: Malawi, flag",
+    "name": "flag_mw"
   },
   {
     "emoji": "🇲🇽",
-    "description": "flag, flag: Mexico, flags",
-    "name": "mexico"
+    "description": "flag: Mexico, flags, flag",
+    "name": "flag_mx"
   },
   {
     "emoji": "🇲🇾",
-    "description": "flag, flags, flag: Malaysia",
-    "name": "malaysia"
+    "description": "flags, flag: Malaysia, flag",
+    "name": "flag_my"
   },
   {
     "emoji": "🇲🇿",
-    "description": "flag, flag: Mozambique, flags",
-    "name": "mozambique"
+    "description": "flags, flag: Mozambique, flag",
+    "name": "flag_mz"
   },
   {
     "emoji": "🇳🇦",
-    "description": "flag, flag: Namibia, flags",
-    "name": "namibia"
+    "description": "flags, flag, flag: Namibia",
+    "name": "flag_na"
   },
   {
     "emoji": "🇳🇨",
-    "description": "flag: New Caledonia, flag, flags",
-    "name": "new_caledonia"
+    "description": "flags, flag, flag: New Caledonia",
+    "name": "flag_nc"
   },
   {
     "emoji": "🇳🇪",
-    "description": "flag, flags, flag: Niger",
-    "name": "niger"
+    "description": "flags, flag: Niger, flag",
+    "name": "flag_ne"
   },
   {
     "emoji": "🇳🇫",
-    "description": "flag, flag: Norfolk Island, flags",
-    "name": "norfolk_island"
+    "description": "flags, flag, flag: Norfolk Island",
+    "name": "flag_nf"
   },
   {
     "emoji": "🇳🇬",
-    "description": "flag, flags, flag: Nigeria",
-    "name": "nigeria"
+    "description": "flags, flag: Nigeria, flag",
+    "name": "flag_ng"
   },
   {
     "emoji": "🇳🇮",
-    "description": "flag, flags, flag: Nicaragua",
-    "name": "nicaragua"
+    "description": "flags, flag: Nicaragua, flag",
+    "name": "flag_ni"
   },
   {
     "emoji": "🇳🇱",
-    "description": "flag, flags, flag: Netherlands",
-    "name": "netherlands"
+    "description": "flags, flag, flag: Netherlands",
+    "name": "flag_nl"
   },
   {
     "emoji": "🇳🇴",
-    "description": "flag, flag: Norway, flags",
-    "name": "norway"
+    "description": "flag: Norway, flags, flag",
+    "name": "flag_no"
   },
   {
     "emoji": "🇳🇵",
-    "description": "flag, flag: Nepal, flags",
-    "name": "nepal"
+    "description": "flags, flag, flag: Nepal",
+    "name": "flag_np"
   },
   {
     "emoji": "🇳🇷",
-    "description": "flag, flag: Nauru, flags",
-    "name": "nauru"
+    "description": "flags, flag: Nauru, flag",
+    "name": "flag_nr"
   },
   {
     "emoji": "🇳🇺",
-    "description": "flag, flags, flag: Niue",
-    "name": "niue"
+    "description": "flag: Niue, flags, flag",
+    "name": "flag_nu"
   },
   {
     "emoji": "🇳🇿",
-    "description": "flag, flags, flag: New Zealand",
-    "name": "new_zealand"
+    "description": "flag: New Zealand, flags, flag",
+    "name": "flag_nz"
   },
   {
     "emoji": "🇴🇲",
-    "description": "flag, flag: Oman, flags",
-    "name": "oman"
+    "description": "flags, flag: Oman, flag",
+    "name": "flag_om"
   },
   {
     "emoji": "🇵🇦",
-    "description": "flag, flags, flag: Panama",
-    "name": "panama"
+    "description": "flags, flag, flag: Panama",
+    "name": "flag_pa"
   },
   {
     "emoji": "🇵🇪",
-    "description": "flag, flag: Peru, flags",
-    "name": "peru"
+    "description": "flag: Peru, flags, flag",
+    "name": "flag_pe"
   },
   {
     "emoji": "🇵🇫",
-    "description": "flag, flags, flag: French Polynesia",
-    "name": "french_polynesia"
+    "description": "flag: French Polynesia, flags, flag",
+    "name": "flag_pf"
   },
   {
     "emoji": "🇵🇬",
-    "description": "flag, flag: Papua New Guinea, flags",
-    "name": "papua_new_guinea"
+    "description": "flags, flag: Papua New Guinea, flag",
+    "name": "flag_pg"
   },
   {
     "emoji": "🇵🇭",
-    "description": "flag: Philippines, flag, flags",
-    "name": "philippines"
+    "description": "flags, flag, flag: Philippines",
+    "name": "flag_ph"
   },
   {
     "emoji": "🇵🇰",
-    "description": "flag, flags, flag: Pakistan",
-    "name": "pakistan"
+    "description": "flag: Pakistan, flags, flag",
+    "name": "flag_pk"
   },
   {
     "emoji": "🇵🇱",
-    "description": "flag, flags, flag: Poland",
-    "name": "poland"
+    "description": "flags, flag: Poland, flag",
+    "name": "flag_pl"
   },
   {
     "emoji": "🇵🇲",
-    "description": "flag, flags, flag: St. Pierre & Miquelon",
-    "name": "st_pierre_miquelon"
+    "description": "flags, flag, flag: St. Pierre & Miquelon",
+    "name": "flag_pm"
   },
   {
     "emoji": "🇵🇳",
-    "description": "flag: Pitcairn Islands, flag, flags",
-    "name": "pitcairn_islands"
+    "description": "flags, flag, flag: Pitcairn Islands",
+    "name": "flag_pn"
   },
   {
     "emoji": "🇵🇷",
-    "description": "flag, flags, flag: Puerto Rico",
-    "name": "puerto_rico"
+    "description": "flag: Puerto Rico, flags, flag",
+    "name": "flag_pr"
   },
   {
     "emoji": "🇵🇸",
-    "description": "flag, flags, flag: Palestinian Territories",
-    "name": "palestinian_territories"
+    "description": "flags, flag: Palestinian Territories, flag",
+    "name": "flag_ps"
   },
   {
     "emoji": "🇵🇹",
-    "description": "flag, flags, flag: Portugal",
-    "name": "portugal"
+    "description": "flag: Portugal, flags, flag",
+    "name": "flag_pt"
   },
   {
     "emoji": "🇵🇼",
-    "description": "flag, flag: Palau, flags",
-    "name": "palau"
+    "description": "flag: Palau, flags, flag",
+    "name": "flag_pw"
   },
   {
     "emoji": "🇵🇾",
-    "description": "flag, flag: Paraguay, flags",
-    "name": "paraguay"
+    "description": "flag: Paraguay, flags, flag",
+    "name": "flag_py"
   },
   {
     "emoji": "🇶🇦",
-    "description": "flag, flags, flag: Qatar",
-    "name": "qatar"
+    "description": "flag: Qatar, flags, flag",
+    "name": "flag_qa"
   },
   {
     "emoji": "🇷🇪",
-    "description": "flag, flags, flag: Réunion",
-    "name": "reunion"
+    "description": "flags, flag, flag: Réunion",
+    "name": "flag_re"
   },
   {
     "emoji": "🇷🇴",
-    "description": "flag, flag: Romania, flags",
-    "name": "romania"
+    "description": "flags, flag, flag: Romania",
+    "name": "flag_ro"
   },
   {
     "emoji": "🇷🇸",
-    "description": "flag, flags, flag: Serbia",
-    "name": "serbia"
+    "description": "flags, flag: Serbia, flag",
+    "name": "flag_rs"
   },
   {
     "emoji": "🇷🇺",
-    "description": "flag: Russia, flag, flags",
-    "name": "ru"
+    "description": "flags, flag, flag: Russia",
+    "name": "flag_ru"
   },
   {
     "emoji": "🇷🇼",
-    "description": "flag: Rwanda, flag, flags",
-    "name": "rwanda"
+    "description": "flags, flag, flag: Rwanda",
+    "name": "flag_rw"
   },
   {
     "emoji": "🇸🇦",
-    "description": "flag: Saudi Arabia, flag, flags",
-    "name": "saudi_arabia"
+    "description": "flags, flag, flag: Saudi Arabia",
+    "name": "flag_sa"
   },
   {
     "emoji": "🇸🇧",
-    "description": "flag, flags, flag: Solomon Islands",
-    "name": "solomon_islands"
+    "description": "flag: Solomon Islands, flags, flag",
+    "name": "flag_sb"
   },
   {
     "emoji": "🇸🇨",
-    "description": "flag, flags, flag: Seychelles",
-    "name": "seychelles"
+    "description": "flags, flag: Seychelles, flag",
+    "name": "flag_sc"
   },
   {
     "emoji": "🇸🇩",
-    "description": "flag, flags, flag: Sudan",
-    "name": "sudan"
+    "description": "flags, flag, flag: Sudan",
+    "name": "flag_sd"
   },
   {
     "emoji": "🇸🇪",
-    "description": "flag, flag: Sweden, flags",
-    "name": "sweden"
+    "description": "flag: Sweden, flags, flag",
+    "name": "flag_se"
   },
   {
     "emoji": "🇸🇬",
-    "description": "flag, flags, flag: Singapore",
-    "name": "singapore"
+    "description": "flags, flag, flag: Singapore",
+    "name": "flag_sg"
   },
   {
     "emoji": "🇸🇭",
-    "description": "flag, flags, flag: St. Helena",
-    "name": "st_helena"
+    "description": "flags, flag, flag: St. Helena",
+    "name": "flag_sh"
   },
   {
     "emoji": "🇸🇮",
-    "description": "flag, flag: Slovenia, flags",
-    "name": "slovenia"
+    "description": "flags, flag: Slovenia, flag",
+    "name": "flag_si"
   },
   {
     "emoji": "🇸🇯",
-    "description": "flag: Svalbard & Jan Mayen, flag, flags",
+    "description": "flag: Svalbard & Jan Mayen, flags, flag",
     "name": "flag_sj"
   },
   {
     "emoji": "🇸🇰",
-    "description": "flag, flag: Slovakia, flags",
-    "name": "slovakia"
+    "description": "flags, flag, flag: Slovakia",
+    "name": "flag_sk"
   },
   {
     "emoji": "🇸🇱",
-    "description": "flag, flags, flag: Sierra Leone",
-    "name": "sierra_leone"
+    "description": "flag: Sierra Leone, flags, flag",
+    "name": "flag_sl"
   },
   {
     "emoji": "🇸🇲",
-    "description": "flag, flag: San Marino, flags",
-    "name": "san_marino"
+    "description": "flags, flag: San Marino, flag",
+    "name": "flag_sm"
   },
   {
     "emoji": "🇸🇳",
-    "description": "flag, flags, flag: Senegal",
-    "name": "senegal"
+    "description": "flags, flag: Senegal, flag",
+    "name": "flag_sn"
   },
   {
     "emoji": "🇸🇴",
-    "description": "flag: Somalia, flag, flags",
-    "name": "somalia"
+    "description": "flags, flag, flag: Somalia",
+    "name": "flag_so"
   },
   {
     "emoji": "🇸🇷",
-    "description": "flag, flags, flag: Suriname",
-    "name": "suriname"
+    "description": "flag: Suriname, flags, flag",
+    "name": "flag_sr"
   },
   {
     "emoji": "🇸🇸",
-    "description": "flag: South Sudan, flag, flags",
-    "name": "south_sudan"
+    "description": "flags, flag: South Sudan, flag",
+    "name": "flag_ss"
   },
   {
     "emoji": "🇸🇹",
-    "description": "flag, flags, flag: São Tomé & Príncipe",
-    "name": "sao_tome_principe"
+    "description": "flags, flag: São Tomé & Príncipe, flag",
+    "name": "flag_st"
   },
   {
     "emoji": "🇸🇻",
-    "description": "flag: El Salvador, flag, flags",
-    "name": "el_salvador"
+    "description": "flags, flag: El Salvador, flag",
+    "name": "flag_sv"
   },
   {
     "emoji": "🇸🇽",
-    "description": "flag, flag: Sint Maarten, flags",
-    "name": "sint_maarten"
+    "description": "flags, flag, flag: Sint Maarten",
+    "name": "flag_sx"
   },
   {
     "emoji": "🇸🇾",
-    "description": "flag, flags, flag: Syria",
-    "name": "syria"
+    "description": "flags, flag: Syria, flag",
+    "name": "flag_sy"
   },
   {
     "emoji": "🇸🇿",
-    "description": "flag: Eswatini, flag, flags",
-    "name": "swaziland"
+    "description": "flags, flag: Eswatini, flag",
+    "name": "flag_sz"
   },
   {
     "emoji": "🇹🇦",
-    "description": "flag, flags, flag: Tristan da Cunha",
+    "description": "flags, flag: Tristan da Cunha, flag",
     "name": "flag_ta"
   },
   {
     "emoji": "🇹🇨",
-    "description": "flag, flags, flag: Turks & Caicos Islands",
-    "name": "turks_caicos_islands"
+    "description": "flags, flag, flag: Turks & Caicos Islands",
+    "name": "flag_tc"
   },
   {
     "emoji": "🇹🇩",
-    "description": "flag: Chad, flag, flags",
-    "name": "chad"
+    "description": "flags, flag: Chad, flag",
+    "name": "flag_td"
   },
   {
     "emoji": "🇹🇫",
-    "description": "flag, flags, flag: French Southern Territories",
-    "name": "french_southern_territories"
+    "description": "flag: French Southern Territories, flags, flag",
+    "name": "flag_tf"
   },
   {
     "emoji": "🇹🇬",
-    "description": "flag: Togo, flag, flags",
-    "name": "togo"
+    "description": "flags, flag, flag: Togo",
+    "name": "flag_tg"
   },
   {
     "emoji": "🇹🇭",
-    "description": "flag, flag: Thailand, flags",
-    "name": "thailand"
+    "description": "flag: Thailand, flags, flag",
+    "name": "flag_th"
   },
   {
     "emoji": "🇹🇯",
-    "description": "flag, flag: Tajikistan, flags",
-    "name": "tajikistan"
+    "description": "flag: Tajikistan, flags, flag",
+    "name": "flag_tj"
   },
   {
     "emoji": "🇹🇰",
-    "description": "flag, flags, flag: Tokelau",
-    "name": "tokelau"
+    "description": "flags, flag: Tokelau, flag",
+    "name": "flag_tk"
   },
   {
     "emoji": "🇹🇱",
-    "description": "flag, flags, flag: Timor-Leste",
-    "name": "timor_leste"
+    "description": "flags, flag: Timor-Leste, flag",
+    "name": "flag_tl"
   },
   {
     "emoji": "🇹🇲",
-    "description": "flag, flag: Turkmenistan, flags",
-    "name": "turkmenistan"
+    "description": "flags, flag, flag: Turkmenistan",
+    "name": "flag_tm"
   },
   {
     "emoji": "🇹🇳",
-    "description": "flag: Tunisia, flag, flags",
-    "name": "tunisia"
+    "description": "flag: Tunisia, flags, flag",
+    "name": "flag_tn"
   },
   {
     "emoji": "🇹🇴",
-    "description": "flag, flags, flag: Tonga",
-    "name": "tonga"
+    "description": "flags, flag, flag: Tonga",
+    "name": "flag_to"
   },
   {
     "emoji": "🇹🇷",
-    "description": "flag: Turkey, flag, flags",
-    "name": "tr"
+    "description": "flags, flag: Turkey, flag",
+    "name": "flag_tr"
   },
   {
     "emoji": "🇹🇹",
-    "description": "flag, flags, flag: Trinidad & Tobago",
-    "name": "trinidad_tobago"
+    "description": "flags, flag, flag: Trinidad & Tobago",
+    "name": "flag_tt"
   },
   {
     "emoji": "🇹🇻",
-    "description": "flag, flags, flag: Tuvalu",
-    "name": "tuvalu"
+    "description": "flag: Tuvalu, flags, flag",
+    "name": "flag_tv"
   },
   {
     "emoji": "🇹🇼",
-    "description": "flag, flags, flag: Taiwan",
-    "name": "taiwan"
+    "description": "flag: Taiwan, flags, flag",
+    "name": "flag_tw"
   },
   {
     "emoji": "🇹🇿",
-    "description": "flag, flags, flag: Tanzania",
-    "name": "tanzania"
+    "description": "flag: Tanzania, flags, flag",
+    "name": "flag_tz"
   },
   {
     "emoji": "🇺🇦",
-    "description": "flag: Ukraine, flag, flags",
-    "name": "ukraine"
+    "description": "flags, flag, flag: Ukraine",
+    "name": "flag_ua"
   },
   {
     "emoji": "🇺🇬",
-    "description": "flag, flags, flag: Uganda",
-    "name": "uganda"
+    "description": "flags, flag: Uganda, flag",
+    "name": "flag_ug"
   },
   {
     "emoji": "🇺🇲",
-    "description": "flag, flag: U.S. Outlying Islands, flags",
+    "description": "flags, flag, flag: U.S. Outlying Islands",
     "name": "flag_um"
   },
   {
     "emoji": "🇺🇸",
-    "description": "flag, flags, flag: United States",
-    "name": "us"
+    "description": "flags, flag, flag: United States",
+    "name": "flag_us"
   },
   {
     "emoji": "🇺🇾",
-    "description": "flag, flags, flag: Uruguay",
-    "name": "uruguay"
+    "description": "flags, flag, flag: Uruguay",
+    "name": "flag_uy"
   },
   {
     "emoji": "🇺🇿",
-    "description": "flag, flags, flag: Uzbekistan",
-    "name": "uzbekistan"
+    "description": "flags, flag, flag: Uzbekistan",
+    "name": "flag_uz"
   },
   {
     "emoji": "🇻🇦",
-    "description": "flag, flags, flag: Vatican City",
-    "name": "vatican_city"
+    "description": "flags, flag: Vatican City, flag",
+    "name": "flag_va"
   },
   {
     "emoji": "🇻🇨",
-    "description": "flag, flags, flag: St. Vincent & Grenadines",
-    "name": "st_vincent_grenadines"
+    "description": "flag: St. Vincent & Grenadines, flags, flag",
+    "name": "flag_vc"
   },
   {
     "emoji": "🇻🇪",
-    "description": "flag, flag: Venezuela, flags",
-    "name": "venezuela"
+    "description": "flags, flag, flag: Venezuela",
+    "name": "flag_ve"
   },
   {
     "emoji": "🇻🇬",
-    "description": "flag, flag: British Virgin Islands, flags",
-    "name": "british_virgin_islands"
+    "description": "flag: British Virgin Islands, flags, flag",
+    "name": "flag_vg"
   },
   {
     "emoji": "🇻🇮",
-    "description": "flag, flag: U.S. Virgin Islands, flags",
-    "name": "us_virgin_islands"
+    "description": "flag: U.S. Virgin Islands, flags, flag",
+    "name": "flag_vi"
   },
   {
     "emoji": "🇻🇳",
-    "description": "flag, flags, flag: Vietnam",
-    "name": "vietnam"
+    "description": "flags, flag: Vietnam, flag",
+    "name": "flag_vn"
   },
   {
     "emoji": "🇻🇺",
-    "description": "flag: Vanuatu, flag, flags",
-    "name": "vanuatu"
+    "description": "flags, flag: Vanuatu, flag",
+    "name": "flag_vu"
   },
   {
     "emoji": "🇼🇫",
-    "description": "flag: Wallis & Futuna, flag, flags",
-    "name": "wallis_futuna"
+    "description": "flag: Wallis & Futuna, flags, flag",
+    "name": "flag_wf"
   },
   {
     "emoji": "🇼🇸",
-    "description": "flag, flags, flag: Samoa",
-    "name": "samoa"
+    "description": "flag: Samoa, flags, flag",
+    "name": "flag_ws"
   },
   {
     "emoji": "🇽🇰",
-    "description": "flag, flags, flag: Kosovo",
-    "name": "kosovo"
+    "description": "flags, flag, flag: Kosovo",
+    "name": "flag_xk"
   },
   {
     "emoji": "🇾🇪",
-    "description": "flag, flag: Yemen, flags",
-    "name": "yemen"
+    "description": "flags, flag, flag: Yemen",
+    "name": "flag_ye"
   },
   {
     "emoji": "🇾🇹",
-    "description": "flag, flag: Mayotte, flags",
-    "name": "mayotte"
+    "description": "flags, flag, flag: Mayotte",
+    "name": "flag_yt"
   },
   {
     "emoji": "🇿🇦",
-    "description": "flag, flags, flag: South Africa",
-    "name": "south_africa"
+    "description": "flags, flag: South Africa, flag",
+    "name": "flag_za"
   },
   {
     "emoji": "🇿🇲",
-    "description": "flag: Zambia, flag, flags",
-    "name": "zambia"
+    "description": "flags, flag: Zambia, flag",
+    "name": "flag_zm"
   },
   {
     "emoji": "🇿🇼",
-    "description": "flag, flag: Zimbabwe, flags",
-    "name": "zimbabwe"
+    "description": "flags, flag: Zimbabwe, flag",
+    "name": "flag_zw"
   },
   {
     "emoji": "🏳️‍🌈",
-    "description": "pride, flags, rainbow flag, gay, flag",
-    "name": "rainbow_flag"
+    "description": "flag, rainbow flag, pride, gay, flags",
+    "name": ""
   },
   {
     "emoji": "🏳️‍⚧️",
     "description": "trans, pride, flag, flags",
-    "name": "transgender_flag"
+    "name": ""
   }
 ]
